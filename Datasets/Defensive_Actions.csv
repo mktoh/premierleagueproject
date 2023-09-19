@@ -1,0 +1,1033 @@
+Player,Nation,Pos,Age,90s,Tackles_Tkl,Tackles_TklW,Tackles_Def 3rd,Tackles_Mid 3rd,Tackles_Att 3rd,Challenges_Tkl,Challenges_Att,Challenges_Tkl%,Challenges_Lost,Blocks_Blocks,Blocks_Sh,Blocks_Pass,_Int,_Tkl+Int,_Clr,_Err,_Matches,Season,Squad
+Gabriel Dos Santos,br BRA,DF,25-090,27.0,35,23,22,10,3,13,19,68.4,6,35,20,15,21,56,89,2,Matches,2022-2023,Arsenal
+Aaron Ramsdale,eng ENG,GK,24-309,27.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,14,5,Matches,2022-2023,Arsenal
+William Saliba,fr FRA,DF,21-360,26.8,34,20,23,9,2,15,18,83.3,3,13,10,3,19,53,85,4,Matches,2022-2023,Arsenal
+Bukayo Saka,eng ENG,FW,21-195,25.7,38,23,14,9,15,10,24,41.7,14,29,0,29,13,51,18,0,Matches,2022-2023,Arsenal
+Martin Ødegaard,no NOR,MF,24-092,24.6,25,14,8,11,6,9,32,28.1,23,10,2,8,4,29,7,0,Matches,2022-2023,Arsenal
+Granit Xhaka,ch SUI,MF,30-173,24.5,22,16,9,11,2,11,28,39.3,17,22,9,13,10,32,35,1,Matches,2022-2023,Arsenal
+Martinelli,br BRA,FW,21-274,24.1,19,11,8,5,6,3,14,21.4,11,19,1,18,8,27,11,0,Matches,2022-2023,Arsenal
+Ben White,eng ENG,DF,25-162,23.0,45,26,17,22,6,30,47,63.8,17,32,7,25,13,58,55,0,Matches,2022-2023,Arsenal
+Thomas Partey,gh GHA,MF,29-279,19.7,49,29,13,26,10,21,39,53.8,18,18,5,13,22,71,33,1,Matches,2022-2023,Arsenal
+Oleksandr Zinchenko,ua UKR,DF,26-094,17.7,32,15,12,12,8,20,33,60.6,13,15,0,15,16,48,24,2,Matches,2022-2023,Arsenal
+Gabriel Jesus,br BRA,FW,25-350,13.7,20,17,10,5,5,7,17,41.2,10,15,2,13,8,28,10,1,Matches,2022-2023,Arsenal
+Eddie Nketiah,eng ENG,FW,23-293,11.1,12,9,5,2,5,2,7,28.6,5,7,1,6,1,13,7,0,Matches,2022-2023,Arsenal
+Takehiro Tomiyasu,jp JPN,DF,24-134,7.4,27,18,12,10,5,13,18,72.2,5,7,0,7,14,41,15,1,Matches,2022-2023,Arsenal
+Leandro Trossard,be BEL,FW,28-105,4.3,7,5,2,1,4,4,8,50.0,4,4,0,4,2,9,0,0,Matches,2022-2023,Arsenal
+Kieran Tierney,sct SCO,DF,25-287,5.5,11,6,6,4,1,4,5,80.0,1,5,1,4,9,20,15,0,Matches,2022-2023,Arsenal
+Jorginho,it ITA,MF,31-089,3.9,8,4,2,5,1,1,9,11.1,8,2,1,1,4,12,3,0,Matches,2022-2023,Arsenal
+Fabio Vieira,pt POR,"MF,FW",22-293,4.6,6,4,3,0,3,3,5,60.0,2,5,0,5,4,10,1,0,Matches,2022-2023,Arsenal
+Albert Sambi Lokonga,be BEL,MF,23-148,2.2,1,1,0,0,1,0,2,0.0,2,1,0,1,5,6,2,0,Matches,2022-2023,Arsenal
+Mohamed Elneny,eg EGY,MF,30-251,1.3,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches,2022-2023,Arsenal
+Emile Smith Rowe,eng ENG,"FW,MF",22-234,1.2,1,1,1,0,0,1,2,50.0,1,0,0,0,0,1,2,0,Matches,2022-2023,Arsenal
+Reiss Nelson,eng ENG,FW,23-099,1.2,2,1,2,0,0,2,2,100.0,0,1,0,1,0,2,1,0,Matches,2022-2023,Arsenal
+Cédric Soares,pt POR,DF,31-200,0.3,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,1,0,Matches,2022-2023,Arsenal
+Rob Holding,eng ENG,DF,27-180,0.2,1,1,1,0,0,0,0,,0,0,0,0,0,1,1,0,Matches,2022-2023,Arsenal
+Marquinhos,br BRA,MF,19-346,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Arsenal
+Ethan Nwaneri,eng ENG,FW,15-363,0.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches,2022-2023,Arsenal
+Squad Total,,,25.1,27.0,397,246,172,142,83,171,332,51.5,161,242,59,183,173,570,429,17,,2022-2023,Arsenal
+Opponent Total,,,27.5,27.0,482,277,285,155,42,201,448,44.9,247,393,148,245,242,724,620,13,,2022-2023,Arsenal
+Ederson,br BRA,GK,29-214,27.0,1,0,1,0,0,1,2,50.0,1,0,0,0,1,2,9,2,Matches,2022-2023,Manchester City
+Rodri,es ESP,MF,26-270,24.9,56,36,23,23,10,23,40,57.5,17,36,13,23,27,83,31,1,Matches,2022-2023,Manchester City
+Erling Haaland,no NOR,FW,22-241,23.5,3,2,0,2,1,1,4,25.0,3,9,3,6,2,5,11,0,Matches,2022-2023,Manchester City
+Kevin De Bruyne,be BEL,MF,31-264,21.5,23,10,3,10,10,12,33,36.4,21,19,2,17,5,28,9,0,Matches,2022-2023,Manchester City
+Bernardo Silva,pt POR,"MF,FW",28-221,19.8,41,22,11,23,7,18,35,51.4,17,19,3,16,13,54,5,0,Matches,2022-2023,Manchester City
+İlkay Gündoğan,de GER,MF,32-146,19.5,24,14,4,10,10,9,22,40.9,13,12,3,9,15,39,12,0,Matches,2022-2023,Manchester City
+Manuel Akanji,ch SUI,DF,27-243,18.1,25,17,10,12,3,18,27,66.7,9,21,7,14,14,39,26,0,Matches,2022-2023,Manchester City
+Jack Grealish,eng ENG,"FW,MF",27-190,16.9,20,12,8,10,2,11,17,64.7,6,15,2,13,5,25,7,0,Matches,2022-2023,Manchester City
+Nathan Aké,nl NED,DF,28-029,16.8,22,8,13,7,2,9,13,69.2,4,15,7,8,16,38,35,0,Matches,2022-2023,Manchester City
+Phil Foden,eng ENG,FW,22-295,15.6,14,8,8,4,2,7,13,53.8,6,17,1,16,5,19,8,0,Matches,2022-2023,Manchester City
+João Cancelo,pt POR,DF,28-296,14.2,29,21,16,9,4,17,24,70.8,7,7,1,6,19,48,9,1,Matches,2022-2023,Manchester City
+Rúben Dias,pt POR,DF,25-309,15.2,17,10,8,8,1,7,8,87.5,1,16,9,7,16,33,39,0,Matches,2022-2023,Manchester City
+John Stones,eng ENG,DF,28-295,14.1,16,10,8,4,4,4,6,66.7,2,11,7,4,6,22,25,0,Matches,2022-2023,Manchester City
+Kyle Walker,eng ENG,DF,32-295,13.0,9,6,4,5,0,2,15,13.3,13,7,2,5,9,18,8,0,Matches,2022-2023,Manchester City
+Riyad Mahrez,dz ALG,"FW,MF",32-026,11.8,14,7,2,6,6,9,22,40.9,13,16,0,16,5,19,2,0,Matches,2022-2023,Manchester City
+Julián Álvarez,ar ARG,"FW,MF",23-047,8.3,14,8,2,6,6,3,15,20.0,12,11,0,11,1,15,3,0,Matches,2022-2023,Manchester City
+Aymeric Laporte,es ESP,DF,28-296,6.2,3,2,2,1,0,1,2,50.0,1,9,3,6,2,5,17,1,Matches,2022-2023,Manchester City
+Rico Lewis,eng ENG,"DF,MF",18-118,6.0,13,8,7,5,1,5,9,55.6,4,4,1,3,3,16,8,0,Matches,2022-2023,Manchester City
+Sergio Gómez,es ESP,"DF,MF",22-196,1.6,5,2,3,1,1,2,3,66.7,1,4,2,2,2,7,4,0,Matches,2022-2023,Manchester City
+Cole Palmer,eng ENG,"FW,MF",20-317,1.3,3,1,0,1,2,1,1,100.0,0,0,0,0,1,4,1,0,Matches,2022-2023,Manchester City
+Kalvin Phillips,eng ENG,MF,27-107,0.7,3,3,1,2,0,1,4,25.0,3,3,1,2,2,5,5,0,Matches,2022-2023,Manchester City
+Máximo Perrone,ar ARG,MF,20-071,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches,2022-2023,Manchester City
+Squad Total,,,27.9,27.0,355,207,134,149,72,161,315,51.1,154,252,67,185,169,524,274,5,,2022-2023,Manchester City
+Opponent Total,,,27.5,27.0,388,203,238,123,27,177,400,44.3,223,335,127,208,237,625,594,12,,2022-2023,Manchester City
+David de Gea,es ESP,GK,32-132,26.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,10,1,Matches,2022-2023,Manchester United
+Bruno Fernandes,pt POR,"MF,FW",28-192,25.0,56,33,20,21,15,25,51,49.0,26,24,3,21,15,71,33,0,Matches,2022-2023,Manchester United
+Marcus Rashford,eng ENG,FW,25-139,23.6,19,9,7,8,4,9,20,45.0,11,26,4,22,5,24,10,0,Matches,2022-2023,Manchester United
+Lisandro Martínez,ar ARG,DF,25-060,20.6,44,22,27,15,2,27,38,71.1,11,45,24,21,28,72,90,0,Matches,2022-2023,Manchester United
+Luke Shaw,eng ENG,DF,27-250,20.5,38,20,23,13,2,24,30,80.0,6,39,11,28,25,63,40,2,Matches,2022-2023,Manchester United
+Christian Eriksen,dk DEN,MF,31-033,16.5,12,10,7,3,2,5,21,23.8,16,17,7,10,8,20,18,1,Matches,2022-2023,Manchester United
+Diogo Dalot,pt POR,DF,24-001,16.9,41,31,31,10,0,26,37,70.3,11,22,7,15,26,67,39,1,Matches,2022-2023,Manchester United
+Raphaël Varane,fr FRA,DF,29-328,16.4,22,7,16,6,0,5,13,38.5,8,21,14,7,10,32,73,0,Matches,2022-2023,Manchester United
+Casemiro,br BRA,MF,31-024,14.9,58,29,28,23,7,29,51,56.9,22,32,8,24,24,82,44,0,Matches,2022-2023,Manchester United
+Antony,br BRA,"FW,MF",23-023,11.9,16,4,7,7,2,5,17,29.4,12,10,0,10,4,20,4,0,Matches,2022-2023,Manchester United
+Jadon Sancho,eng ENG,"FW,MF",22-359,10.3,9,5,5,3,1,4,11,36.4,7,9,1,8,4,13,3,0,Matches,2022-2023,Manchester United
+Fred,br BRA,MF,30-014,10.8,36,22,20,13,3,8,26,30.8,18,30,1,29,15,51,14,0,Matches,2022-2023,Manchester United
+Tyrell Malacia,nl NED,DF,23-214,10.2,29,19,23,5,1,8,17,47.1,9,9,2,7,17,46,36,0,Matches,2022-2023,Manchester United
+Aaron Wan-Bissaka,eng ENG,DF,25-113,8.2,21,15,13,8,0,13,14,92.9,1,10,2,8,14,35,23,0,Matches,2022-2023,Manchester United
+Wout Weghorst,nl NED,"FW,MF",30-224,6.2,6,3,4,0,2,1,4,25.0,3,6,2,4,7,13,7,0,Matches,2022-2023,Manchester United
+Scott McTominay,sct SCO,MF,26-101,9.6,25,17,12,8,5,8,13,61.5,5,10,4,6,11,36,38,0,Matches,2022-2023,Manchester United
+Anthony Martial,fr FRA,FW,27-104,5.1,0,0,0,0,0,0,1,0.0,1,3,0,3,1,1,2,0,Matches,2022-2023,Manchester United
+Victor Lindelöf,se SWE,DF,28-245,6.0,8,6,4,3,1,5,6,83.3,1,6,3,3,9,17,28,0,Matches,2022-2023,Manchester United
+Harry Maguire,eng ENG,DF,30-014,5.4,5,4,4,0,1,3,4,75.0,1,15,10,5,7,12,25,0,Matches,2022-2023,Manchester United
+Anthony Elanga,se SWE,FW,20-326,4.7,3,0,0,2,1,1,2,50.0,1,4,0,4,2,5,4,0,Matches,2022-2023,Manchester United
+Cristiano Ronaldo,pt POR,FW,38-042,5.8,2,2,1,0,1,1,2,50.0,1,0,0,0,1,3,9,0,Matches,2022-2023,Manchester United
+Alejandro Garnacho,es ESP,"FW,MF",18-261,5.0,3,1,0,0,3,1,8,12.5,7,5,0,5,4,7,2,0,Matches,2022-2023,Manchester United
+Marcel Sabitzer,at AUT,MF,29-002,3.1,9,6,2,7,0,2,4,50.0,2,5,1,4,5,14,8,0,Matches,2022-2023,Manchester United
+Donny van de Beek,nl NED,MF,25-335,1.9,0,0,0,0,0,0,1,0.0,1,2,1,1,1,1,1,0,Matches,2022-2023,Manchester United
+Facundo Pellistri,uy URU,"FW,MF",21-089,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches,2022-2023,Manchester United
+Kobbie Mainoo,eng ENG,MF,17-334,0.1,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,Matches,2022-2023,Manchester United
+Squad Total,,,27.6,26.0,462,265,254,155,53,210,391,53.7,181,351,106,245,243,705,563,5,,2022-2023,Manchester United
+Opponent Total,,,27.1,26.0,419,230,199,153,67,220,406,54.2,186,365,105,260,300,719,407,7,,2022-2023,Manchester United
+Harry Kane,eng ENG,FW,29-234,27.8,9,8,0,3,6,5,12,41.7,7,18,5,13,1,10,13,0,Matches,2022-2023,Tottenham Hotspur
+Pierre Højbjerg,dk DEN,MF,27-226,26.8,42,22,23,15,4,21,46,45.7,25,40,15,25,38,80,52,1,Matches,2022-2023,Tottenham Hotspur
+Eric Dier,eng ENG,DF,29-063,25.3,22,14,13,7,2,7,15,46.7,8,27,18,9,30,52,89,1,Matches,2022-2023,Tottenham Hotspur
+Son Heung-min,kr KOR,"MF,FW",30-254,22.5,18,9,4,8,6,5,19,26.3,14,18,2,16,9,27,5,0,Matches,2022-2023,Tottenham Hotspur
+Hugo Lloris,fr FRA,GK,36-083,21.0,1,1,1,0,0,1,2,50.0,1,0,0,0,1,2,11,4,Matches,2022-2023,Tottenham Hotspur
+Ben Davies,wls WAL,DF,29-329,20.3,17,8,7,9,1,8,17,47.1,9,15,6,9,16,33,60,0,Matches,2022-2023,Tottenham Hotspur
+Cristian Romero,ar ARG,DF,24-326,18.3,49,24,28,20,1,18,29,62.1,11,20,9,11,29,78,66,2,Matches,2022-2023,Tottenham Hotspur
+Ivan Perišić,hr CRO,"DF,MF",34-045,17.5,30,15,17,6,7,16,32,50.0,16,21,3,18,17,47,29,1,Matches,2022-2023,Tottenham Hotspur
+Rodrigo Bentancur,uy URU,MF,25-267,16.7,45,28,15,21,9,16,28,57.1,12,28,15,13,20,65,22,0,Matches,2022-2023,Tottenham Hotspur
+Dejan Kulusevski,se SWE,"MF,FW",22-328,16.3,27,9,17,3,7,11,31,35.5,20,13,0,13,6,33,5,0,Matches,2022-2023,Tottenham Hotspur
+Emerson,br BRA,DF,24-064,15.5,42,26,28,11,3,20,32,62.5,12,15,3,12,12,54,58,0,Matches,2022-2023,Tottenham Hotspur
+Clément Lenglet,fr FRA,DF,27-275,15.2,26,16,14,8,4,11,23,47.8,12,19,7,12,13,39,35,2,Matches,2022-2023,Tottenham Hotspur
+Ryan Sessegnon,eng ENG,DF,22-305,9.0,16,11,9,7,0,6,12,50.0,6,8,1,7,6,22,17,1,Matches,2022-2023,Tottenham Hotspur
+Richarlison,br BRA,"MF,FW",25-313,8.3,19,14,12,4,3,11,23,47.8,12,12,1,11,5,24,8,0,Matches,2022-2023,Tottenham Hotspur
+Yves Bissouma,ml MLI,MF,26-201,9.0,12,10,3,5,4,2,7,28.6,5,12,5,7,9,21,7,0,Matches,2022-2023,Tottenham Hotspur
+Oliver Skipp,eng ENG,MF,22-184,7.2,16,9,9,6,1,6,14,42.9,8,6,1,5,6,22,9,0,Matches,2022-2023,Tottenham Hotspur
+Matt Doherty,ie IRL,"DF,MF",31-062,7.4,16,10,12,3,1,8,10,80.0,2,11,6,5,8,24,14,1,Matches,2022-2023,Tottenham Hotspur
+Fraser Forster,eng ENG,GK,35-002,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches,2022-2023,Tottenham Hotspur
+Davinson Sánchez,co COL,DF,26-280,6.4,15,6,10,4,1,9,10,90.0,1,9,6,3,10,25,25,0,Matches,2022-2023,Tottenham Hotspur
+Pedro Porro,es ESP,DF,23-187,3.7,3,1,1,2,0,1,10,10.0,9,7,0,7,3,6,9,0,Matches,2022-2023,Tottenham Hotspur
+Bryan,es ESP,"MF,FW",22-036,1.6,3,1,3,0,0,0,3,0.0,3,3,0,3,1,4,1,0,Matches,2022-2023,Tottenham Hotspur
+Japhet Tanganga,eng ENG,DF,23-353,1.6,3,2,3,0,0,1,3,33.3,2,1,0,1,2,5,6,0,Matches,2022-2023,Tottenham Hotspur
+Pape Matar Sarr,sn SEN,MF,20-186,1.6,6,5,4,1,1,3,7,42.9,4,2,1,1,5,11,4,0,Matches,2022-2023,Tottenham Hotspur
+Lucas Moura,br BRA,"MF,DF",30-218,1.3,7,5,1,2,4,1,2,50.0,1,0,0,0,2,9,1,0,Matches,2022-2023,Tottenham Hotspur
+Arnaut Danjuma,nl NED,FW,26-047,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Tottenham Hotspur
+Djed Spence,eng ENG,"FW,DF",22-222,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Tottenham Hotspur
+Harvey White,eng ENG,MF,21-181,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches,2022-2023,Tottenham Hotspur
+Squad Total,,,28.4,28.0,444,254,234,145,65,187,388,48.2,201,305,104,201,249,693,548,13,,2022-2023,Tottenham Hotspur
+Opponent Total,,,27.3,28.0,481,290,217,187,77,206,413,49.9,207,374,118,256,235,716,546,7,,2022-2023,Tottenham Hotspur
+Kieran Trippier,eng ENG,DF,32-181,25.4,53,38,28,21,4,34,62,54.8,28,28,12,16,33,86,52,1,Matches,2022-2023,Newcastle United
+Nick Pope,eng ENG,GK,30-334,25.2,1,0,1,0,0,1,3,33.3,2,0,0,0,0,1,19,1,Matches,2022-2023,Newcastle United
+Dan Burn,eng ENG,DF,30-314,24.6,31,21,18,8,5,19,41,46.3,22,30,11,19,22,53,98,2,Matches,2022-2023,Newcastle United
+Fabian Schär,ch SUI,DF,31-089,23.8,29,11,20,8,1,14,19,73.7,5,24,14,10,37,66,101,0,Matches,2022-2023,Newcastle United
+Miguel Almirón,py PAR,FW,29-037,22.0,37,25,12,16,9,15,26,57.7,11,23,2,21,7,44,12,0,Matches,2022-2023,Newcastle United
+Sven Botman,nl NED,DF,23-066,22.7,28,16,23,5,0,15,21,71.4,6,30,15,15,22,50,83,2,Matches,2022-2023,Newcastle United
+Sean Longstaff,eng ENG,MF,25-140,22.4,32,19,12,14,6,15,45,33.3,30,32,7,25,15,47,21,0,Matches,2022-2023,Newcastle United
+Joe Willock,eng ENG,MF,23-211,20.1,39,24,11,18,10,21,42,50.0,21,45,8,37,18,57,16,0,Matches,2022-2023,Newcastle United
+Joelinton,br BRA,"MF,FW",26-217,20.6,54,38,26,21,7,21,42,50.0,21,39,5,34,32,86,31,0,Matches,2022-2023,Newcastle United
+Bruno Guimarães,br BRA,MF,25-123,18.5,45,23,15,26,4,19,37,51.4,18,23,3,20,23,68,14,1,Matches,2022-2023,Newcastle United
+Callum Wilson,eng ENG,FW,31-020,13.8,7,1,0,6,1,0,1,0.0,1,1,0,1,1,8,4,0,Matches,2022-2023,Newcastle United
+Allan Saint-Maximin,fr FRA,FW,26-007,9.6,5,3,2,3,0,2,8,25.0,6,3,0,3,4,9,1,0,Matches,2022-2023,Newcastle United
+Jacob Murphy,eng ENG,FW,28-023,8.5,11,5,3,6,2,6,13,46.2,7,9,0,9,2,13,3,0,Matches,2022-2023,Newcastle United
+Alexander Isak,se SWE,FW,23-179,6.9,7,4,1,4,2,3,7,42.9,4,12,1,11,1,8,5,0,Matches,2022-2023,Newcastle United
+Chris Wood,nz NZL,FW,31-102,5.0,5,4,0,3,2,3,5,60.0,2,2,2,0,1,6,7,0,Matches,2022-2023,Newcastle United
+Matt Targett,eng ENG,DF,27-182,4.8,11,8,6,3,2,8,15,53.3,7,4,1,3,7,18,12,0,Matches,2022-2023,Newcastle United
+Ryan Fraser,sct SCO,FW,29-023,3.5,2,2,0,0,2,2,5,40.0,3,3,1,2,0,2,3,0,Matches,2022-2023,Newcastle United
+Jamaal Lascelles,eng ENG,DF,29-128,2.2,1,0,1,0,0,1,1,100.0,0,3,2,1,0,1,16,0,Matches,2022-2023,Newcastle United
+Elliot Anderson,sct SCO,"FW,MF",20-133,2.1,7,5,4,1,2,3,6,50.0,3,6,1,5,2,9,0,0,Matches,2022-2023,Newcastle United
+Anthony Gordon,eng ENG,"FW,MF",22-023,1.8,2,2,1,0,1,2,6,33.3,4,3,0,3,1,3,0,1,Matches,2022-2023,Newcastle United
+Martin Dúbravka,sk SVK,GK,34-063,0.7,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches,2022-2023,Newcastle United
+Matt Ritchie,sct SCO,"FW,MF",33-190,0.4,1,1,0,1,0,1,2,50.0,1,0,0,0,1,2,0,0,Matches,2022-2023,Newcastle United
+Jonjo Shelvey,eng ENG,MF,31-020,0.4,1,0,1,0,0,0,1,0.0,1,1,0,1,0,1,0,0,Matches,2022-2023,Newcastle United
+Javier Manquillo,es ESP,DF,28-318,0.1,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches,2022-2023,Newcastle United
+Jamal Lewis,nir NIR,DF,25-053,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Newcastle United
+Emil Krafth,se SWE,DF,28-229,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Newcastle United
+Squad Total,,,28.1,26.0,410,250,186,164,60,206,410,50.2,204,321,85,236,229,639,498,8,,2022-2023,Newcastle United
+Opponent Total,,,27.6,26.0,464,286,238,176,50,213,420,50.7,207,310,104,206,243,707,580,6,,2022-2023,Newcastle United
+Alisson,br BRA,GK,30-168,26.0,0,0,0,0,0,0,2,0.0,2,3,0,3,0,0,13,0,Matches,2022-2023,Liverpool
+Mohamed Salah,eg EGY,FW,30-277,25.7,13,9,3,3,7,7,15,46.7,8,16,0,16,4,17,3,0,Matches,2022-2023,Liverpool
+Trent Alexander-Arnold,eng ENG,DF,24-163,21.5,40,29,25,11,4,28,47,59.6,19,19,5,14,30,70,25,2,Matches,2022-2023,Liverpool
+Virgil van Dijk,nl NED,DF,31-254,21.5,17,9,9,7,1,6,12,50.0,6,18,11,7,22,39,87,1,Matches,2022-2023,Liverpool
+Andrew Robertson,sct SCO,DF,29-008,19.7,24,16,7,12,5,12,23,52.2,11,18,4,14,16,40,32,1,Matches,2022-2023,Liverpool
+Fabinho,br BRA,MF,29-147,18.7,41,23,15,22,4,15,39,38.5,24,23,6,17,25,66,25,0,Matches,2022-2023,Liverpool
+Harvey Elliott,eng ENG,"MF,FW",19-349,15.9,21,14,6,9,6,6,29,20.7,23,25,1,24,13,34,7,0,Matches,2022-2023,Liverpool
+Darwin Núñez,uy URU,FW,23-268,15.0,8,4,2,3,3,4,14,28.6,10,9,0,9,3,11,11,0,Matches,2022-2023,Liverpool
+Jordan Henderson,eng ENG,MF,32-275,14.0,19,13,8,8,3,8,17,47.1,9,12,3,9,13,32,13,0,Matches,2022-2023,Liverpool
+Thiago Alcántara,es ESP,MF,31-342,12.8,41,23,18,21,2,13,19,68.4,6,14,3,11,18,59,12,2,Matches,2022-2023,Liverpool
+Joe Gomez,eng ENG,DF,25-300,14.3,27,20,14,11,2,11,19,57.9,8,16,11,5,21,48,45,2,Matches,2022-2023,Liverpool
+Roberto Firmino,br BRA,"FW,MF",31-168,11.5,15,11,2,10,3,2,15,13.3,13,12,1,11,6,21,2,0,Matches,2022-2023,Liverpool
+Joël Matip,cm CMR,DF,31-223,9.1,12,6,10,2,0,9,15,60.0,6,6,2,4,11,23,38,3,Matches,2022-2023,Liverpool
+Cody Gakpo,nl NED,FW,23-316,7.3,9,6,1,6,2,4,16,25.0,12,6,1,5,2,11,1,0,Matches,2022-2023,Liverpool
+Ibrahima Konaté,fr FRA,DF,23-298,7.2,16,9,11,5,0,7,15,46.7,8,4,2,2,11,27,32,2,Matches,2022-2023,Liverpool
+Luis Díaz,co COL,FW,26-065,6.8,10,8,2,7,1,3,7,42.9,4,6,0,6,2,12,0,0,Matches,2022-2023,Liverpool
+James Milner,eng ENG,"DF,MF",37-074,8.0,19,10,8,8,3,12,29,41.4,17,12,2,10,12,31,13,0,Matches,2022-2023,Liverpool
+Kostas Tsimikas,gr GRE,DF,26-311,6.0,11,6,9,2,0,8,11,72.7,3,7,1,6,7,18,12,0,Matches,2022-2023,Liverpool
+Stefan Bajcetic,es ESP,MF,18-148,5.8,9,6,5,3,1,8,27,29.6,19,7,0,7,9,18,4,0,Matches,2022-2023,Liverpool
+Diogo Jota,pt POR,"FW,MF",26-105,5.0,14,9,7,4,3,7,19,36.8,12,2,0,2,2,16,2,0,Matches,2022-2023,Liverpool
+Fabio Carvalho,pt POR,"MF,FW",20-201,3.8,8,8,3,3,2,3,6,50.0,3,6,0,6,5,13,0,0,Matches,2022-2023,Liverpool
+Alex Oxlade-Chamberlain,eng ENG,"FW,MF",29-216,3.5,5,4,1,2,2,1,4,25.0,3,4,1,3,1,6,4,0,Matches,2022-2023,Liverpool
+Naby Keïta,gn GUI,MF,28-037,3.3,5,4,2,3,0,1,4,25.0,3,1,0,1,2,7,3,0,Matches,2022-2023,Liverpool
+Curtis Jones,eng ENG,"MF,FW",22-048,2.2,4,2,1,1,2,2,4,50.0,2,1,0,1,1,5,2,0,Matches,2022-2023,Liverpool
+Nathaniel Phillips,eng ENG,DF,25-363,0.7,2,1,0,2,0,2,2,100.0,0,0,0,0,2,4,1,0,Matches,2022-2023,Liverpool
+Ben Doak,sct SCO,FW,17-128,0.3,3,2,1,2,0,1,1,100.0,0,1,0,1,0,3,0,0,Matches,2022-2023,Liverpool
+Bobby Clark,eng ENG,MF,18-040,0.1,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0,Matches,2022-2023,Liverpool
+Squad Total,,,28.1,26.0,393,252,170,167,56,180,411,43.8,231,250,54,196,238,631,387,13,,2022-2023,Liverpool
+Opponent Total,,,27.3,26.0,465,257,243,176,46,185,386,47.9,201,347,107,240,270,735,712,16,,2022-2023,Liverpool
+Lewis Dunk,eng ENG,DF,31-118,25.0,19,11,15,3,1,7,19,36.8,12,23,16,7,25,44,61,0,Matches,2022-2023,Brighton & Hove Albion
+Pascal Groß,de GER,"MF,DF",31-277,24.2,39,22,16,18,5,17,36,47.2,19,24,8,16,12,51,12,1,Matches,2022-2023,Brighton & Hove Albion
+Solly March,eng ENG,"FW,DF",28-242,23.9,41,23,13,11,17,5,22,22.7,17,27,3,24,20,61,24,0,Matches,2022-2023,Brighton & Hove Albion
+Moisés Caicedo,ec ECU,MF,21-137,23.2,70,34,27,34,9,27,44,61.4,17,24,4,20,39,109,21,2,Matches,2022-2023,Brighton & Hove Albion
+Robert Sánchez,es ESP,GK,25-121,22.0,1,0,1,0,0,0,0,,0,0,0,0,3,4,8,2,Matches,2022-2023,Brighton & Hove Albion
+Alexis Mac Allister,ar ARG,MF,24-085,21.2,53,30,17,31,5,25,54,46.3,29,15,1,14,21,74,5,1,Matches,2022-2023,Brighton & Hove Albion
+Pervis Estupiñán,ec ECU,DF,25-057,17.5,40,23,21,13,6,24,37,64.9,13,17,5,12,26,66,25,0,Matches,2022-2023,Brighton & Hove Albion
+Joël Veltman,nl NED,DF,31-063,19.1,47,26,35,10,2,28,44,63.6,16,25,8,17,18,65,46,0,Matches,2022-2023,Brighton & Hove Albion
+Adam Webster,eng ENG,DF,28-074,16.6,15,10,8,5,2,6,10,60.0,4,23,13,10,16,31,42,3,Matches,2022-2023,Brighton & Hove Albion
+Leandro Trossard,be BEL,"FW,MF",28-105,14.6,10,6,7,1,2,1,8,12.5,7,17,0,17,6,16,1,0,Matches,2022-2023,Brighton & Hove Albion
+Danny Welbeck,eng ENG,FW,32-113,14.0,10,5,0,4,6,4,8,50.0,4,13,1,12,3,13,11,0,Matches,2022-2023,Brighton & Hove Albion
+Kaoru Mitoma,jp JPN,"FW,MF",25-303,14.1,28,18,11,9,8,11,21,52.4,10,15,0,15,8,36,8,0,Matches,2022-2023,Brighton & Hove Albion
+Adam Lallana,eng ENG,"MF,FW",34-313,8.0,9,4,6,2,1,0,7,0.0,7,6,0,6,2,11,1,0,Matches,2022-2023,Brighton & Hove Albion
+Levi Colwill,eng ENG,DF,20-021,6.1,2,2,1,1,0,1,2,50.0,1,2,1,1,8,10,15,0,Matches,2022-2023,Brighton & Hove Albion
+Evan Ferguson,ie IRL,FW,18-151,5.2,6,3,1,3,2,1,5,20.0,4,6,1,5,1,7,1,0,Matches,2022-2023,Brighton & Hove Albion
+Tariq Lamptey,gh GHA,DF,22-170,5.0,11,6,6,4,1,5,7,71.4,2,7,3,4,7,18,2,0,Matches,2022-2023,Brighton & Hove Albion
+Jason Steele,eng ENG,GK,32-213,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,2022-2023,Brighton & Hove Albion
+Deniz Undav,de GER,"FW,MF",26-243,2.8,4,3,2,1,1,1,1,100.0,0,1,0,1,0,4,1,0,Matches,2022-2023,Brighton & Hove Albion
+Enock Mwepu,zm ZAM,"FW,MF",25-077,2.4,10,5,1,6,3,3,4,75.0,1,3,1,2,1,11,1,0,Matches,2022-2023,Brighton & Hove Albion
+Billy Gilmour,sct SCO,MF,21-281,1.8,1,0,0,1,0,1,7,14.3,6,1,0,1,1,2,3,0,Matches,2022-2023,Brighton & Hove Albion
+Jeremy Sarmiento,ec ECU,MF,20-276,2.0,6,3,4,1,1,2,5,40.0,3,2,0,2,1,7,0,0,Matches,2022-2023,Brighton & Hove Albion
+Jan Paul van Hecke,nl NED,DF,22-284,0.9,2,1,1,1,0,1,1,100.0,0,0,0,0,4,6,3,0,Matches,2022-2023,Brighton & Hove Albion
+Julio César Enciso,py PAR,"FW,MF",19-055,1.7,2,0,0,2,0,1,1,100.0,0,1,0,1,1,3,1,0,Matches,2022-2023,Brighton & Hove Albion
+Facundo Buonanotte,ar ARG,"FW,MF",18-086,0.6,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches,2022-2023,Brighton & Hove Albion
+Andrew Moran,ie IRL,FW,19-155,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches,2022-2023,Brighton & Hove Albion
+Squad Total,,,27.4,25.0,426,235,193,161,72,171,344,49.7,173,253,65,188,223,649,293,9,,2022-2023,Brighton & Hove Albion
+Opponent Total,,,27.3,25.0,388,232,209,132,47,171,360,47.5,189,317,95,222,282,670,528,14,,2022-2023,Brighton & Hove Albion
+David Raya,es ESP,GK,27-185,27.0,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,7,1,Matches,2022-2023,Brentford
+Bryan Mbeumo,cm CMR,FW,23-224,23.2,19,13,5,10,4,6,31,19.4,25,13,0,13,5,24,14,0,Matches,2022-2023,Brentford
+Mathias Jensen,dk DEN,MF,27-077,23.0,52,25,19,24,9,21,69,30.4,48,41,1,40,27,79,18,1,Matches,2022-2023,Brentford
+Rico Henry,eng ENG,DF,25-254,25.7,44,24,16,21,7,15,27,55.6,12,23,7,16,21,65,61,1,Matches,2022-2023,Brentford
+Ben Mee,eng ENG,DF,33-179,25.4,28,17,17,9,2,12,22,54.5,10,38,30,8,37,65,89,1,Matches,2022-2023,Brentford
+Ivan Toney,eng ENG,FW,27-003,24.9,19,11,3,9,7,6,17,35.3,11,20,7,13,9,28,25,0,Matches,2022-2023,Brentford
+Ethan Pinnock,jm JAM,DF,29-294,19.0,25,13,13,6,6,5,9,55.6,4,21,16,5,18,43,152,1,Matches,2022-2023,Brentford
+Vitaly Janelt,de GER,"MF,DF",24-313,17.6,46,23,18,20,8,17,35,48.6,18,20,7,13,19,65,22,0,Matches,2022-2023,Brentford
+Christian Nørgaard,dk DEN,MF,29-009,15.4,38,24,16,20,2,17,40,42.5,23,25,8,17,27,65,33,2,Matches,2022-2023,Brentford
+Aaron Hickey,sct SCO,DF,20-282,12.8,30,21,20,10,0,14,25,56.0,11,12,6,6,15,45,22,0,Matches,2022-2023,Brentford
+Yoane Wissa,cd COD,FW,26-197,13.1,14,9,3,7,4,6,10,60.0,4,7,0,7,6,20,12,0,Matches,2022-2023,Brentford
+Josh Dasilva,eng ENG,MF,24-147,12.5,14,7,5,5,4,5,13,38.5,8,18,5,13,4,18,5,0,Matches,2022-2023,Brentford
+Mads Roerslev,dk DEN,DF,23-268,10.4,16,10,14,2,0,10,24,41.7,14,11,5,6,8,24,31,0,Matches,2022-2023,Brentford
+Kristoffer Ajer,no NOR,DF,24-336,8.5,11,8,5,4,2,9,16,56.3,7,6,5,1,7,18,22,0,Matches,2022-2023,Brentford
+Mathias Jørgensen,dk DEN,DF,32-330,8.3,14,7,8,6,0,8,15,53.3,7,17,11,6,14,28,27,1,Matches,2022-2023,Brentford
+Pontus Jansson,se SWE,DF,32-034,5.9,3,2,2,1,0,2,3,66.7,1,8,6,2,8,11,25,0,Matches,2022-2023,Brentford
+Mikkel Damsgaard,dk DEN,"MF,FW",22-259,5.8,18,12,8,7,3,9,32,28.1,23,10,1,9,7,25,10,0,Matches,2022-2023,Brentford
+Frank Onyeka,ng NGA,MF,25-077,5.6,12,9,6,5,1,7,16,43.8,9,10,2,8,6,18,12,0,Matches,2022-2023,Brentford
+Shandon Baptiste,gd GRN,MF,24-345,5.0,8,5,4,3,1,6,14,42.9,8,4,1,3,5,13,8,0,Matches,2022-2023,Brentford
+Keane Lewis-Potter,eng ENG,"FW,MF",22-025,3.6,1,0,0,1,0,0,0,,0,5,1,4,0,1,2,0,Matches,2022-2023,Brentford
+Kevin Schade,de GER,"FW,MF",21-112,2.1,4,1,2,2,0,1,2,50.0,1,4,0,4,1,5,1,0,Matches,2022-2023,Brentford
+Saman Ghoddos,ir IRN,"MF,FW",29-194,1.0,1,0,0,1,0,1,2,50.0,1,3,1,2,3,4,2,0,Matches,2022-2023,Brentford
+Sergi Canós,es ESP,"FW,DF",26-045,0.9,0,0,0,0,0,0,2,0.0,2,3,1,2,0,0,1,0,Matches,2022-2023,Brentford
+Mads Bech Sørensen,dk DEN,"DF,MF",24-071,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0,Matches,2022-2023,Brentford
+Halil Dervişoğlu,tr TUR,MF,23-101,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches,2022-2023,Brentford
+Squad Total,,,26.8,27.0,417,241,184,173,60,177,427,41.5,250,320,121,199,249,666,602,8,,2022-2023,Brentford
+Opponent Total,,,27.2,27.0,431,245,198,162,71,176,354,49.7,178,260,60,200,228,659,583,6,,2022-2023,Brentford
+Tim Ream,us USA,DF,35-165,27.0,27,14,13,11,3,10,22,45.5,12,37,20,17,40,67,97,1,Matches,2022-2023,Fulham
+Andreas Pereira,br BRA,MF,27-077,24.9,13,6,2,4,7,6,23,26.1,17,20,3,17,4,17,6,0,Matches,2022-2023,Fulham
+Harrison Reed,eng ENG,MF,28-051,23.7,29,19,11,15,3,10,33,30.3,23,37,6,31,15,44,29,0,Matches,2022-2023,Fulham
+Bernd Leno,de GER,GK,31-015,25.0,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,12,0,Matches,2022-2023,Fulham
+Bobby Reid,jm JAM,"FW,DF",30-045,22.9,35,20,13,10,12,14,28,50.0,14,21,3,18,17,52,26,0,Matches,2022-2023,Fulham
+João Palhinha,pt POR,MF,27-253,23.7,101,58,34,45,22,45,79,57.0,34,33,4,29,33,134,49,1,Matches,2022-2023,Fulham
+Antonee Robinson,us USA,DF,25-223,23.3,38,22,28,9,1,25,33,75.8,8,39,10,29,37,75,52,1,Matches,2022-2023,Fulham
+Aleksandar Mitrović,rs SRB,FW,28-184,20.1,14,7,8,4,2,5,10,50.0,5,20,5,15,3,17,19,1,Matches,2022-2023,Fulham
+Kenny Tete,nl NED,DF,27-161,19.6,59,33,33,17,9,27,35,77.1,8,32,13,19,31,90,61,0,Matches,2022-2023,Fulham
+Willian,br BRA,FW,34-222,16.2,11,6,7,2,2,7,19,36.8,12,10,0,10,8,19,6,0,Matches,2022-2023,Fulham
+Issa Diop,fr FRA,DF,26-069,15.7,21,15,15,5,1,10,18,55.6,8,20,14,6,27,48,49,0,Matches,2022-2023,Fulham
+Tosin Adarabioyo,eng ENG,DF,25-176,13.2,14,6,11,2,1,6,10,60.0,4,11,8,3,14,28,70,1,Matches,2022-2023,Fulham
+Neeskens Kebano,cd COD,FW,31-009,7.9,12,5,7,5,0,7,13,53.8,6,12,0,12,1,13,8,0,Matches,2022-2023,Fulham
+Carlos Vinícius,br BRA,FW,27-359,6.2,2,0,0,2,0,0,3,0.0,3,4,0,4,0,2,6,0,Matches,2022-2023,Fulham
+Harry Wilson,wls WAL,FW,25-362,5.0,12,8,5,5,2,4,11,36.4,7,8,0,8,3,15,6,0,Matches,2022-2023,Fulham
+Daniel James,wls WAL,FW,25-129,4.2,4,3,1,2,1,3,7,42.9,4,2,1,1,1,5,4,0,Matches,2022-2023,Fulham
+Manor Solomon,il ISR,FW,23-238,3.1,13,7,6,5,2,6,7,85.7,1,1,0,1,4,17,0,0,Matches,2022-2023,Fulham
+Saša Lukić,rs SRB,MF,26-218,2.3,3,2,1,2,0,0,0,,0,4,1,3,1,4,1,0,Matches,2022-2023,Fulham
+Marek Rodák,sk SVK,GK,26-096,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches,2022-2023,Fulham
+Layvin Kurzawa,fr FRA,DF,30-196,1.5,3,2,1,1,1,3,3,100.0,0,1,1,0,2,5,4,0,Matches,2022-2023,Fulham
+Tom Cairney,sct SCO,MF,32-058,5.2,13,4,2,6,5,6,6,100.0,0,8,1,7,2,15,2,0,Matches,2022-2023,Fulham
+Kevin Mbabu,ch SUI,"DF,FW",27-334,1.6,3,2,2,1,0,1,3,33.3,2,2,0,2,3,6,3,0,Matches,2022-2023,Fulham
+Jay Stansfield,eng ENG,FW,20-115,1.0,0,0,0,0,0,0,2,0.0,2,4,1,3,1,1,1,0,Matches,2022-2023,Fulham
+Nathaniel Chalobah,eng ENG,MF,28-097,0.1,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,2,0,Matches,2022-2023,Fulham
+Josh Onomah,eng ENG,MF,25-326,0.2,1,0,1,0,0,0,0,,0,1,0,1,0,1,0,0,Matches,2022-2023,Fulham
+Luke Harris,wls WAL,"MF,FW",17-350,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Fulham
+Cédric Soares,pt POR,DF,31-200,0.1,1,1,0,1,0,0,0,,0,0,0,0,0,1,1,0,Matches,2022-2023,Fulham
+Shane Duffy,ie IRL,"FW,DF",31-077,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Fulham
+Tyrese Francois,au AUS,FW,22-246,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,2022-2023,Fulham
+Squad Total,,,29.0,27.0,430,241,202,154,74,196,368,53.3,172,327,91,236,247,677,516,6,,2022-2023,Fulham
+Opponent Total,,,27.3,27.0,445,260,201,186,58,168,350,48.0,182,318,77,241,237,682,514,8,,2022-2023,Fulham
+Kai Havertz,de GER,"FW,MF",23-281,22.0,30,14,4,16,10,7,22,31.8,15,25,0,25,7,37,31,0,Matches,2022-2023,Chelsea
+Thiago Silva,br BRA,DF,38-178,20.1,34,22,19,15,0,18,24,75.0,6,30,22,8,29,63,91,2,Matches,2022-2023,Chelsea
+Mason Mount,eng ENG,"MF,FW",24-068,18.1,32,18,6,16,10,14,27,51.9,13,24,6,18,8,40,9,0,Matches,2022-2023,Chelsea
+Kepa Arrizabalaga,es ESP,GK,28-167,18.5,2,2,2,0,0,2,3,66.7,1,0,0,0,0,2,10,0,Matches,2022-2023,Chelsea
+Marc Cucurella,es ESP,DF,24-240,15.9,56,27,34,13,9,28,53,52.8,25,26,8,18,13,69,43,0,Matches,2022-2023,Chelsea
+Kalidou Koulibaly,sn SEN,DF,31-272,16.9,34,21,24,8,2,17,28,60.7,11,23,9,14,22,56,60,0,Matches,2022-2023,Chelsea
+Raheem Sterling,eng ENG,"FW,MF",28-101,14.9,12,7,4,2,6,5,10,50.0,5,12,0,12,1,13,3,0,Matches,2022-2023,Chelsea
+Ruben Loftus-Cheek,eng ENG,"MF,DF",27-055,14.0,23,13,8,12,3,10,19,52.6,9,13,2,11,11,34,20,0,Matches,2022-2023,Chelsea
+Jorginho,it ITA,MF,31-089,14.2,42,23,22,14,6,22,46,47.8,24,18,3,15,21,63,7,0,Matches,2022-2023,Chelsea
+Mateo Kovačić,hr CRO,MF,28-317,13.0,28,18,12,12,4,10,22,45.5,12,6,1,5,15,43,11,0,Matches,2022-2023,Chelsea
+César Azpilicueta,es ESP,DF,33-203,12.3,28,17,17,7,4,16,22,72.7,6,20,4,16,15,43,42,0,Matches,2022-2023,Chelsea
+Trevoh Chalobah,eng ENG,DF,23-257,11.2,17,11,12,2,3,11,18,61.1,7,8,3,5,15,32,36,1,Matches,2022-2023,Chelsea
+Reece James,eng ENG,"DF,MF",23-101,10.4,21,13,5,13,3,10,13,76.9,3,10,2,8,9,30,20,0,Matches,2022-2023,Chelsea
+Conor Gallagher,eng ENG,"MF,FW",23-041,10.5,31,21,14,10,7,8,23,34.8,15,24,5,19,15,46,15,0,Matches,2022-2023,Chelsea
+Ben Chilwell,eng ENG,"DF,MF",26-088,9.7,16,12,10,5,1,13,20,65.0,7,12,0,12,13,29,17,0,Matches,2022-2023,Chelsea
+Edouard Mendy,sn SEN,GK,31-018,8.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,2,Matches,2022-2023,Chelsea
+Christian Pulisic,us USA,"FW,DF",24-182,7.7,11,6,3,6,2,3,5,60.0,2,6,1,5,4,15,4,0,Matches,2022-2023,Chelsea
+Benoît Badiashile,fr FRA,DF,21-358,7.1,10,6,6,4,0,6,9,66.7,3,3,2,1,10,20,26,1,Matches,2022-2023,Chelsea
+Enzo Fernández,ar ARG,MF,22-061,6.9,25,15,16,8,1,10,30,33.3,20,18,2,16,9,34,7,0,Matches,2022-2023,Chelsea
+João Félix,pt POR,"FW,MF",23-129,5.7,9,5,4,3,2,2,7,28.6,5,2,0,2,1,10,0,1,Matches,2022-2023,Chelsea
+Hakim Ziyech,ma MAR,"FW,MF",30-000,6.4,18,10,11,5,2,4,9,44.4,5,6,0,6,4,22,5,1,Matches,2022-2023,Chelsea
+Wesley Fofana,fr FRA,DF,22-092,6.2,9,6,5,3,1,2,5,40.0,3,8,3,5,11,20,13,0,Matches,2022-2023,Chelsea
+Pierre-Emerick Aubameyang,ga GAB,FW,33-274,4.9,1,0,1,0,0,0,1,0.0,1,1,0,1,2,3,4,2,Matches,2022-2023,Chelsea
+Denis Zakaria,ch SUI,MF,26-119,3.8,9,5,5,2,2,2,6,33.3,4,3,0,3,3,12,9,0,Matches,2022-2023,Chelsea
+Lewis Hall,eng ENG,"DF,MF",18-192,3.4,11,3,10,1,0,8,12,66.7,4,4,0,4,10,21,5,1,Matches,2022-2023,Chelsea
+Mykhailo Mudryk,ua UKR,FW,22-073,2.9,7,6,1,3,3,3,8,37.5,5,4,1,3,0,7,1,0,Matches,2022-2023,Chelsea
+Armando Broja,al ALB,FW,21-190,3.3,4,1,0,3,1,1,1,100.0,0,10,1,9,1,5,1,0,Matches,2022-2023,Chelsea
+Noni Madueke,eng ENG,FW,21-009,2.0,3,3,2,1,0,1,1,100.0,0,9,1,8,0,3,0,0,Matches,2022-2023,Chelsea
+N'Golo Kanté,fr FRA,MF,31-355,1.9,5,3,1,4,0,2,4,50.0,2,1,0,1,3,8,0,0,Matches,2022-2023,Chelsea
+Carney Chukwuemeka,eng ENG,"MF,FW",19-150,2.6,11,6,6,5,0,2,4,50.0,2,4,0,4,4,15,1,0,Matches,2022-2023,Chelsea
+Datro Fofana,ci CIV,FW,20-087,0.7,2,1,0,1,1,0,0,,0,1,0,1,0,2,0,0,Matches,2022-2023,Chelsea
+Omari Hutchinson,eng ENG,FW,19-140,0.3,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches,2022-2023,Chelsea
+Squad Total,,,27.3,27.0,541,315,264,194,83,237,452,52.4,215,331,76,255,257,798,494,11,,2022-2023,Chelsea
+Opponent Total,,,27.3,27.0,540,326,271,194,75,249,469,53.1,220,341,102,239,288,828,555,6,,2022-2023,Chelsea
+Ezri Konsa,eng ENG,DF,25-147,25.9,31,10,18,11,2,13,15,86.7,2,29,17,12,19,50,89,3,Matches,2022-2023,Aston Villa
+Emiliano Martínez,ar ARG,GK,30-198,24.4,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,12,1,Matches,2022-2023,Aston Villa
+Ollie Watkins,eng ENG,FW,27-079,23.8,14,9,2,9,3,6,19,31.6,13,16,1,15,8,22,24,0,Matches,2022-2023,Aston Villa
+Tyrone Mings,eng ENG,DF,30-006,24.0,10,3,6,4,0,5,13,38.5,8,28,15,13,36,46,104,2,Matches,2022-2023,Aston Villa
+Douglas Luiz,br BRA,MF,24-314,21.7,48,26,21,18,9,18,39,46.2,21,29,5,24,31,79,15,1,Matches,2022-2023,Aston Villa
+Leon Bailey,jm JAM,"FW,MF",25-222,17.9,11,5,4,6,1,3,15,20.0,12,12,0,12,5,16,9,0,Matches,2022-2023,Aston Villa
+Jacob Ramsey,eng ENG,"MF,FW",21-295,18.6,51,32,19,24,8,22,43,51.2,21,36,6,30,17,68,22,0,Matches,2022-2023,Aston Villa
+John McGinn,sct SCO,MF,28-152,18.9,47,29,21,22,4,23,41,56.1,18,34,4,30,18,65,12,0,Matches,2022-2023,Aston Villa
+Matty Cash,pl POL,DF,25-224,18.2,48,28,33,11,4,21,31,67.7,10,18,4,14,24,72,40,0,Matches,2022-2023,Aston Villa
+Emi Buendía,ar ARG,"MF,FW",26-084,18.1,43,18,17,16,10,15,47,31.9,32,12,0,12,15,58,11,0,Matches,2022-2023,Aston Villa
+Boubacar Kamara,fr FRA,MF,23-116,16.9,47,22,20,19,8,22,47,46.8,25,34,11,23,17,64,22,1,Matches,2022-2023,Aston Villa
+Lucas Digne,fr FRA,DF,29-242,14.3,26,10,18,8,0,17,27,63.0,10,14,5,9,15,41,36,0,Matches,2022-2023,Aston Villa
+Ashley Young,eng ENG,DF,37-253,14.2,38,20,27,10,1,26,31,83.9,5,18,8,10,15,53,40,0,Matches,2022-2023,Aston Villa
+Danny Ings,eng ENG,FW,30-239,9.2,10,5,1,6,3,1,6,16.7,5,12,1,11,1,11,11,0,Matches,2022-2023,Aston Villa
+Philippe Coutinho,br BRA,"MF,FW",30-280,8.8,19,14,8,8,3,9,15,60.0,6,11,1,10,4,23,2,0,Matches,2022-2023,Aston Villa
+Álex Moreno,es ESP,DF,29-284,6.4,9,6,7,1,1,7,20,35.0,13,11,3,8,3,12,10,2,Matches,2022-2023,Aston Villa
+Leander Dendoncker,be BEL,MF,27-338,4.1,11,4,8,2,1,7,13,53.8,6,11,3,8,6,17,6,0,Matches,2022-2023,Aston Villa
+Calum Chambers,eng ENG,"DF,MF",28-058,2.6,3,3,3,0,0,2,4,50.0,2,5,4,1,6,9,3,1,Matches,2022-2023,Aston Villa
+Robin Olsen,se SWE,GK,33-070,2.6,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0,Matches,2022-2023,Aston Villa
+Diego Carlos,br BRA,DF,30-004,2.0,1,0,0,1,0,0,1,0.0,1,2,2,0,1,2,2,0,Matches,2022-2023,Aston Villa
+Jan Bednarek,pl POL,DF,26-341,1.1,3,3,0,3,0,1,1,100.0,0,3,1,2,2,5,5,0,Matches,2022-2023,Aston Villa
+Ludwig Augustinsson,se SWE,DF,28-332,0.9,1,1,1,0,0,0,0,,0,0,0,0,0,1,1,0,Matches,2022-2023,Aston Villa
+Jhon Durán,co COL,FW,19-096,0.8,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,1,0,Matches,2022-2023,Aston Villa
+Bertrand Traoré,bf BFA,FW,27-194,0.6,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0,Matches,2022-2023,Aston Villa
+Cameron Archer,eng ENG,"FW,MF",21-241,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Aston Villa
+Morgan Sanson,fr FRA,MF,28-213,0.1,2,1,1,1,0,1,1,100.0,0,0,0,0,0,2,0,0,Matches,2022-2023,Aston Villa
+Squad Total,,,27.6,27.0,473,249,235,180,58,219,433,50.6,214,337,91,246,245,718,478,11,,2022-2023,Aston Villa
+Opponent Total,,,27.1,27.0,467,268,231,159,77,190,381,49.9,191,302,97,205,237,704,473,6,,2022-2023,Aston Villa
+Vicente Guaita,es ESP,GK,36-068,26.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,9,1,Matches,2022-2023,Crystal Palace
+Marc Guéhi,eng ENG,DF,22-249,26.0,40,20,30,9,1,19,30,63.3,11,39,21,18,31,71,94,2,Matches,2022-2023,Crystal Palace
+Cheick Doucouré,ml MLI,MF,23-070,21.5,62,40,35,24,3,24,44,54.5,20,32,11,21,42,104,32,0,Matches,2022-2023,Crystal Palace
+Jeffrey Schlupp,gh GHA,"MF,FW",30-086,21.6,48,35,22,21,5,18,35,51.4,17,31,7,24,22,70,31,0,Matches,2022-2023,Crystal Palace
+Tyrick Mitchell,eng ENG,DF,23-199,21.1,45,29,25,18,2,18,37,48.6,19,34,8,26,28,73,55,0,Matches,2022-2023,Crystal Palace
+Wilfried Zaha,ci CIV,"FW,MF",30-129,21.5,29,17,11,11,7,8,20,40.0,12,19,1,18,15,44,8,0,Matches,2022-2023,Crystal Palace
+Joachim Andersen,dk DEN,DF,26-292,21.4,26,11,17,9,0,13,24,54.2,11,22,11,11,21,47,152,0,Matches,2022-2023,Crystal Palace
+Jordan Ayew,gh GHA,"FW,MF",31-189,20.6,56,36,20,18,18,18,39,46.2,21,26,2,24,12,68,27,0,Matches,2022-2023,Crystal Palace
+Michael Olise,fr FRA,"FW,MF",21-097,19.7,39,21,18,18,3,17,38,44.7,21,30,1,29,13,52,11,0,Matches,2022-2023,Crystal Palace
+Eberechi Eze,eng ENG,"MF,FW",24-263,19.2,27,16,10,12,5,8,20,40.0,12,19,0,19,8,35,6,0,Matches,2022-2023,Crystal Palace
+Nathaniel Clyne,eng ENG,DF,31-348,18.2,27,16,13,9,5,14,23,60.9,9,22,4,18,19,46,34,0,Matches,2022-2023,Crystal Palace
+Joel Ward,eng ENG,DF,33-141,14.6,26,17,18,3,5,14,17,82.4,3,21,12,9,16,42,46,1,Matches,2022-2023,Crystal Palace
+Odsonne Édouard,fr FRA,"FW,MF",25-062,13.5,21,10,7,10,4,6,10,60.0,4,10,5,5,3,24,17,0,Matches,2022-2023,Crystal Palace
+Jean-Philippe Mateta,fr FRA,FW,25-264,7.7,6,1,2,3,1,1,3,33.3,2,3,1,2,3,9,15,0,Matches,2022-2023,Crystal Palace
+Albert Sambi Lokonga,be BEL,MF,23-148,5.2,13,10,7,4,2,8,12,66.7,4,7,3,4,7,20,9,0,Matches,2022-2023,Crystal Palace
+Will Hughes,eng ENG,MF,27-336,4.4,14,7,5,8,1,5,10,50.0,5,9,4,5,9,23,1,0,Matches,2022-2023,Crystal Palace
+Chris Richards,us USA,DF,22-356,4.0,7,5,6,1,0,4,6,66.7,2,9,1,8,8,15,28,0,Matches,2022-2023,Crystal Palace
+Luka Milivojević,rs SRB,MF,31-346,3.9,10,6,5,3,2,6,7,85.7,1,8,1,7,8,18,8,0,Matches,2022-2023,Crystal Palace
+James Tomkins,eng ENG,DF,33-355,2.7,3,2,2,1,0,1,2,50.0,1,2,1,1,3,6,11,0,Matches,2022-2023,Crystal Palace
+Joseph Whitworth,eng ENG,GK,19-018,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Crystal Palace
+Naouirou Ahamada,fr FRA,"MF,FW",20-355,0.9,3,2,3,0,0,1,3,33.3,2,2,0,2,0,3,0,0,Matches,2022-2023,Crystal Palace
+Jaïro Riedewald,nl NED,"DF,FW",26-191,0.5,2,1,2,0,0,0,1,0.0,1,1,0,1,0,2,4,0,Matches,2022-2023,Crystal Palace
+Malcolm Ebiowei,eng ENG,"MF,FW",19-196,0.4,1,1,1,0,0,0,1,0.0,1,2,0,2,0,1,0,0,Matches,2022-2023,Crystal Palace
+James McArthur,sct SCO,MF,35-163,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Crystal Palace
+David Ozoh,,FW,17-292,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Crystal Palace
+Squad Total,,,27.6,27.0,505,303,259,182,64,203,382,53.1,179,348,94,254,268,773,598,4,,2022-2023,Crystal Palace
+Opponent Total,,,27.3,27.0,557,324,265,216,76,227,461,49.2,234,297,81,216,248,805,409,9,,2022-2023,Crystal Palace
+Max Kilman,eng ENG,DF,25-300,28.0,28,15,22,5,1,13,22,59.1,9,53,33,20,17,45,123,0,Matches,2022-2023,Wolverhampton Wanderers
+José Sá,pt POR,GK,30-061,28.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,8,2,Matches,2022-2023,Wolverhampton Wanderers
+Rúben Neves,pt POR,MF,26-006,26.6,65,36,26,26,13,24,58,41.4,34,45,19,26,40,105,70,1,Matches,2022-2023,Wolverhampton Wanderers
+Nélson Semedo,pt POR,DF,29-123,19.8,54,33,36,15,3,25,45,55.6,20,30,11,19,20,74,57,1,Matches,2022-2023,Wolverhampton Wanderers
+Matheus Nunes,pt POR,MF,24-204,18.8,46,31,22,16,8,15,35,42.9,20,17,2,15,11,57,25,1,Matches,2022-2023,Wolverhampton Wanderers
+João Moutinho,pt POR,MF,36-192,18.4,49,28,23,20,6,18,44,40.9,26,20,6,14,18,67,17,0,Matches,2022-2023,Wolverhampton Wanderers
+Daniel Podence,pt POR,"FW,MF",27-149,16.8,27,17,13,9,5,6,26,23.1,20,17,0,17,5,32,6,0,Matches,2022-2023,Wolverhampton Wanderers
+Nathan Collins,ie IRL,DF,21-323,17.5,25,14,18,7,0,14,23,60.9,9,26,21,5,21,46,72,0,Matches,2022-2023,Wolverhampton Wanderers
+Jonny Castro,es ESP,DF,29-016,14.0,34,15,23,10,1,18,38,47.4,20,26,5,21,13,47,28,2,Matches,2022-2023,Wolverhampton Wanderers
+Hugo Bueno,es ESP,DF,20-182,11.6,27,14,22,3,2,15,27,55.6,12,12,1,11,9,36,29,0,Matches,2022-2023,Wolverhampton Wanderers
+Pedro Neto,pt POR,"FW,MF",23-010,8.2,10,6,4,2,4,6,13,46.2,7,2,0,2,3,13,2,0,Matches,2022-2023,Wolverhampton Wanderers
+Adama Traoré,es ESP,"FW,MF",27-053,13.1,12,6,5,4,3,3,5,60.0,2,7,1,6,2,14,8,1,Matches,2022-2023,Wolverhampton Wanderers
+Rayan Aït Nouri,fr FRA,DF,21-286,11.5,33,20,25,7,1,9,14,64.3,5,3,0,3,9,42,27,0,Matches,2022-2023,Wolverhampton Wanderers
+Hwang Hee-chan,kr KOR,FW,27-052,7.9,10,6,4,4,2,5,13,38.5,8,12,0,12,1,11,3,0,Matches,2022-2023,Wolverhampton Wanderers
+Diego Costa,es ESP,FW,34-163,7.9,2,0,2,0,0,1,3,33.3,2,5,1,4,2,4,8,0,Matches,2022-2023,Wolverhampton Wanderers
+Gonçalo Guedes,pt POR,"FW,MF",26-110,7.9,8,6,4,3,1,5,8,62.5,3,4,0,4,1,9,2,0,Matches,2022-2023,Wolverhampton Wanderers
+Craig Dawson,eng ENG,DF,32-317,7.5,6,4,4,2,0,3,6,50.0,3,13,11,2,4,10,44,1,Matches,2022-2023,Wolverhampton Wanderers
+Mario Lemina,ga GAB,MF,29-199,6.6,18,13,12,5,1,9,13,69.2,4,13,3,10,8,26,14,0,Matches,2022-2023,Wolverhampton Wanderers
+Raúl Jiménez,mx MEX,FW,31-318,8.3,9,6,3,5,1,3,5,60.0,2,9,0,9,0,9,8,0,Matches,2022-2023,Wolverhampton Wanderers
+Pablo Sarabia,es ESP,"FW,MF",30-312,5.7,7,4,2,3,2,3,9,33.3,6,4,0,4,1,8,1,0,Matches,2022-2023,Wolverhampton Wanderers
+Matheus Cunha,br BRA,FW,23-296,4.8,4,1,0,3,1,1,2,50.0,1,10,2,8,3,7,6,0,Matches,2022-2023,Wolverhampton Wanderers
+Boubacar Traoré,ml MLI,MF,21-211,4.3,10,4,4,3,3,2,6,33.3,4,4,2,2,7,17,1,0,Matches,2022-2023,Wolverhampton Wanderers
+Toti Gomes,pt POR,DF,24-062,3.4,4,2,4,0,0,2,2,100.0,0,6,5,1,2,6,24,0,Matches,2022-2023,Wolverhampton Wanderers
+Leander Dendoncker,be BEL,MF,27-338,2.4,4,2,0,3,1,2,3,66.7,1,2,0,2,9,13,4,0,Matches,2022-2023,Wolverhampton Wanderers
+Morgan Gibbs-White,eng ENG,"FW,MF",23-051,2.0,3,1,3,0,0,2,3,66.7,1,2,0,2,1,4,3,0,Matches,2022-2023,Wolverhampton Wanderers
+Joseph Hodge,ie IRL,MF,20-186,1.9,5,2,1,3,1,3,4,75.0,1,5,0,5,0,5,2,1,Matches,2022-2023,Wolverhampton Wanderers
+João Gomes,br BRA,"MF,FW",22-035,1.8,10,4,3,6,1,4,9,44.4,5,1,1,0,0,10,2,0,Matches,2022-2023,Wolverhampton Wanderers
+Sasa Kalajdzic,at AUT,FW,25-255,0.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches,2022-2023,Wolverhampton Wanderers
+Chem Campbell,wls WAL,"FW,MF",20-079,0.8,2,1,1,1,0,0,1,0.0,1,2,0,2,1,3,0,0,Matches,2022-2023,Wolverhampton Wanderers
+Dexter Lembikisa,jm JAM,DF,19-135,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Wolverhampton Wanderers
+Connor Ronan,ie IRL,MF,25-013,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Wolverhampton Wanderers
+Squad Total,,,27.3,28.0,513,291,287,165,61,212,438,48.4,226,350,124,226,209,722,594,10,,2022-2023,Wolverhampton Wanderers
+Opponent Total,,,27.1,28.0,457,260,213,157,87,227,483,47.0,256,320,90,230,241,698,543,9,,2022-2023,Wolverhampton Wanderers
+Illan Meslier,fr FRA,GK,23-017,27.0,1,0,1,0,0,1,3,33.3,2,0,0,0,1,2,21,1,Matches,2022-2023,Leeds United
+Robin Koch,de GER,DF,26-245,25.5,40,23,26,11,3,20,37,54.1,17,30,13,17,37,77,114,1,Matches,2022-2023,Leeds United
+Tyler Adams,us USA,MF,24-033,24.0,89,46,44,35,10,50,77,64.9,27,48,8,40,35,124,29,0,Matches,2022-2023,Leeds United
+Brenden Aaronson,us USA,"MF,FW",22-148,21.6,34,13,11,18,5,12,35,34.3,23,35,3,32,2,36,6,1,Matches,2022-2023,Leeds United
+Jack Harrison,eng ENG,"FW,MF",26-119,20.4,32,14,2,15,15,10,33,30.3,23,29,1,28,11,43,12,0,Matches,2022-2023,Leeds United
+Marc Roca,es ESP,MF,26-113,18.0,46,29,17,27,2,13,41,31.7,28,22,8,14,21,67,15,1,Matches,2022-2023,Leeds United
+Pascal Struijk,nl NED,DF,23-220,18.7,64,45,32,24,8,35,56,62.5,21,25,7,18,26,90,49,0,Matches,2022-2023,Leeds United
+Rodrigo,es ESP,"FW,MF",32-013,14.9,12,4,1,7,4,5,11,45.5,6,11,2,9,4,16,16,1,Matches,2022-2023,Leeds United
+Luke Ayling,eng ENG,DF,31-206,13.8,44,22,32,7,5,26,46,56.5,20,23,7,16,14,58,32,0,Matches,2022-2023,Leeds United
+Rasmus Nissen,dk DEN,DF,25-251,13.4,43,24,24,13,6,28,41,68.3,13,20,9,11,21,64,38,0,Matches,2022-2023,Leeds United
+Liam Cooper,sct SCO,DF,31-201,12.3,27,19,20,6,1,14,21,66.7,7,8,3,5,25,52,42,2,Matches,2022-2023,Leeds United
+Degnand Gnonto,it ITA,"FW,MF",19-134,11.8,21,14,5,12,4,8,22,36.4,14,16,0,16,3,24,7,0,Matches,2022-2023,Leeds United
+Patrick Bamford,eng ENG,FW,29-195,10.6,8,5,0,6,2,3,15,20.0,12,6,2,4,4,12,8,0,Matches,2022-2023,Leeds United
+Crysencio Summerville,nl NED,FW,21-140,11.3,22,16,10,11,1,8,17,47.1,9,14,1,13,8,30,8,0,Matches,2022-2023,Leeds United
+Maximilian Wöber,at AUT,DF,25-043,8.8,16,13,6,10,0,11,17,64.7,6,16,10,6,17,33,39,1,Matches,2022-2023,Leeds United
+Luis Sinisterra,co COL,FW,23-275,6.0,14,9,3,9,2,7,12,58.3,5,4,0,4,6,20,1,0,Matches,2022-2023,Leeds United
+Junior Firpo,es ESP,DF,26-209,8.2,27,15,15,9,3,16,31,51.6,15,14,5,9,13,40,15,0,Matches,2022-2023,Leeds United
+Diego Llorente,es ESP,DF,29-215,7.2,13,10,8,5,0,4,8,50.0,4,6,2,4,15,28,24,2,Matches,2022-2023,Leeds United
+Weston McKennie,us USA,MF,24-203,6.4,9,5,2,5,2,2,10,20.0,8,12,1,11,9,18,15,0,Matches,2022-2023,Leeds United
+Sam Greenwood,eng ENG,"MF,FW",21-052,3.8,11,7,7,4,0,5,15,33.3,10,9,2,7,1,12,1,0,Matches,2022-2023,Leeds United
+Daniel James,wls WAL,FW,25-129,2.2,6,2,1,3,2,3,6,50.0,3,4,0,4,2,8,2,0,Matches,2022-2023,Leeds United
+Adam Forshaw,eng ENG,MF,31-162,1.8,2,1,0,2,0,1,6,16.7,5,3,0,3,0,2,1,0,Matches,2022-2023,Leeds United
+Joe Gelhardt,eng ENG,FW,20-319,2.4,6,2,1,3,2,3,5,60.0,2,5,0,5,0,6,4,0,Matches,2022-2023,Leeds United
+Georginio Rutter,fr FRA,"FW,MF",20-333,2.1,8,7,4,3,1,5,7,71.4,2,3,0,3,3,11,3,0,Matches,2022-2023,Leeds United
+Cody Drameh,eng ENG,DF,21-101,0.8,5,4,0,4,1,2,3,66.7,1,0,0,0,1,6,1,0,Matches,2022-2023,Leeds United
+Mateusz Klich,pl POL,"MF,FW",32-279,3.1,12,8,3,4,5,7,13,53.8,6,4,0,4,0,12,1,0,Matches,2022-2023,Leeds United
+Mateo Fernández,es ESP,"FW,MF",19-151,0.3,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0,Matches,2022-2023,Leeds United
+Darko Gyabi,eng ENG,FW,19-029,0.1,2,2,1,1,0,0,0,,0,2,0,2,0,2,0,0,Matches,2022-2023,Leeds United
+Squad Total,,,25.7,27.0,614,359,276,254,84,299,588,50.9,289,370,84,286,279,893,505,10,,2022-2023,Leeds United
+Opponent Total,,,27.3,27.0,544,315,273,209,62,245,441,55.6,196,371,102,269,296,840,496,8,,2022-2023,Leeds United
+James Tarkowski,eng ENG,DF,30-120,28.0,34,20,26,7,1,12,25,48.0,13,82,64,18,34,68,155,3,Matches,2022-2023,Everton
+Alex Iwobi,ng NGA,"MF,FW",26-320,27.5,56,31,30,23,3,27,48,56.3,21,26,1,25,18,74,23,0,Matches,2022-2023,Everton
+Jordan Pickford,eng ENG,GK,29-012,27.0,0,0,0,0,0,0,0,,0,0,0,0,2,2,15,3,Matches,2022-2023,Everton
+Vitaliy Mykolenko,ua UKR,"DF,MF",23-294,23.8,42,22,29,12,1,20,38,52.6,18,38,14,24,32,74,75,0,Matches,2022-2023,Everton
+Amadou Onana,be BEL,MF,21-215,22.9,61,39,21,35,5,26,38,68.4,12,20,5,15,28,89,31,0,Matches,2022-2023,Everton
+Demarai Gray,eng ENG,"FW,MF",26-264,22.5,22,16,5,10,7,13,22,59.1,9,16,2,14,10,32,15,0,Matches,2022-2023,Everton
+Conor Coady,eng ENG,DF,30-022,21.9,14,9,8,6,0,7,15,46.7,8,20,16,4,14,28,85,3,Matches,2022-2023,Everton
+Idrissa Gana Gueye,sn SEN,MF,33-174,19.9,61,34,31,22,8,17,40,42.5,23,38,7,31,46,107,24,3,Matches,2022-2023,Everton
+Dwight McNeil,eng ENG,"FW,MF",23-117,17.8,46,30,28,7,11,15,34,44.1,19,29,2,27,20,66,21,0,Matches,2022-2023,Everton
+Séamus Coleman,ie IRL,DF,34-159,16.1,32,23,18,10,4,17,27,63.0,10,13,7,6,21,53,54,1,Matches,2022-2023,Everton
+Anthony Gordon,eng ENG,FW,22-023,12.2,34,22,17,10,7,8,23,34.8,15,19,0,19,4,38,11,0,Matches,2022-2023,Everton
+Nathan Patterson,sct SCO,"DF,MF",21-154,11.0,39,17,25,11,3,23,35,65.7,12,19,3,16,11,50,34,0,Matches,2022-2023,Everton
+Neal Maupay,fr FRA,FW,26-217,10.5,10,5,2,4,4,1,2,50.0,1,4,0,4,3,13,0,0,Matches,2022-2023,Everton
+Abdoulaye Doucouré,ml MLI,MF,30-077,10.4,17,10,4,10,3,7,19,36.8,12,17,2,15,9,26,7,0,Matches,2022-2023,Everton
+Dominic Calvert-Lewin,eng ENG,FW,26-003,8.1,3,1,1,0,2,1,4,25.0,3,2,0,2,1,4,5,0,Matches,2022-2023,Everton
+Ben Godfrey,eng ENG,DF,25-063,5.7,12,8,9,1,2,7,18,38.9,11,7,3,4,6,18,24,0,Matches,2022-2023,Everton
+Tom Davies,eng ENG,MF,24-262,5.3,13,8,5,7,1,6,11,54.5,5,10,1,9,4,17,7,1,Matches,2022-2023,Everton
+Michael Keane,eng ENG,DF,30-067,4.3,1,1,1,0,0,0,0,,0,3,0,3,3,4,31,0,Matches,2022-2023,Everton
+Mason Holgate,eng ENG,"DF,MF",26-148,4.1,8,4,7,1,0,3,6,50.0,3,7,3,4,6,14,24,0,Matches,2022-2023,Everton
+Yerry Mina,co COL,DF,28-177,2.6,9,4,4,5,0,7,7,100.0,0,2,1,1,2,11,9,0,Matches,2022-2023,Everton
+Ellis Simms,eng ENG,"FW,MF",22-073,1.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Everton
+Salomón Rondón,ve VEN,FW,33-184,1.2,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0,Matches,2022-2023,Everton
+Asmir Begović,ba BIH,GK,35-272,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,2022-2023,Everton
+James Garner,eng ENG,MF,22-006,1.6,6,5,1,4,1,1,4,25.0,3,2,0,2,4,10,1,0,Matches,2022-2023,Everton
+Dele Alli,eng ENG,MF,26-342,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Everton
+Isaac Price,nir NIR,MF,19-174,0.4,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,0,0,Matches,2022-2023,Everton
+Rúben Vinagre,pt POR,"DF,MF",23-344,0.3,2,2,1,1,0,1,2,50.0,1,0,0,0,0,2,1,0,Matches,2022-2023,Everton
+Thomas Cannon,ie IRL,FW,20-081,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Everton
+Squad Total,,,27.3,28.0,522,311,273,186,63,219,419,52.3,200,376,133,243,278,800,653,14,,2022-2023,Everton
+Opponent Total,,,27.1,28.0,465,288,202,204,59,225,437,51.5,212,289,85,204,208,673,498,9,,2022-2023,Everton
+Brennan Johnson,wls WAL,"FW,MF",21-300,24.6,21,16,10,5,6,6,18,33.3,12,25,1,24,3,24,3,1,Matches,2022-2023,Nottingham Forest
+Morgan Gibbs-White,eng ENG,"MF,FW",23-051,22.3,16,9,5,4,7,7,18,38.9,11,11,3,8,10,26,11,0,Matches,2022-2023,Nottingham Forest
+Remo Freuler,ch SUI,MF,30-338,20.1,37,19,21,14,2,15,32,46.9,17,31,7,24,25,62,34,0,Matches,2022-2023,Nottingham Forest
+Dean Henderson,eng ENG,GK,26-007,18.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,12,1,Matches,2022-2023,Nottingham Forest
+Renan Lodi,br BRA,DF,24-345,16.9,35,25,24,8,3,23,41,56.1,18,18,5,13,26,61,52,0,Matches,2022-2023,Nottingham Forest
+Ryan Yates,eng ENG,MF,25-118,16.6,28,15,12,13,3,12,18,66.7,6,22,8,14,8,36,37,0,Matches,2022-2023,Nottingham Forest
+Scott McKenna,sct SCO,DF,26-127,16.2,12,7,7,3,2,6,10,60.0,4,20,14,6,11,23,81,1,Matches,2022-2023,Nottingham Forest
+Joe Worrall,eng ENG,DF,26-068,17.9,37,15,26,9,2,16,23,69.6,7,23,17,6,19,56,85,1,Matches,2022-2023,Nottingham Forest
+Serge Aurier,ci CIV,DF,30-085,15.9,50,33,32,15,3,16,23,69.6,7,27,9,18,22,72,54,0,Matches,2022-2023,Nottingham Forest
+Neco Williams,wls WAL,DF,21-340,15.2,52,35,37,10,5,30,49,61.2,19,24,5,19,29,81,34,0,Matches,2022-2023,Nottingham Forest
+Jesse Lingard,eng ENG,"FW,MF",30-094,10.2,4,4,2,2,0,1,7,14.3,6,11,0,11,5,9,4,0,Matches,2022-2023,Nottingham Forest
+Steve Cook,eng ENG,DF,31-334,10.6,8,4,4,4,0,5,7,71.4,2,16,11,5,12,20,51,0,Matches,2022-2023,Nottingham Forest
+Orel Mangala,be BEL,MF,25-001,8.4,14,8,8,5,1,7,15,46.7,8,10,3,7,11,25,4,0,Matches,2022-2023,Nottingham Forest
+Taiwo Awoniyi,ng NGA,FW,25-219,8.1,10,8,0,7,3,5,7,71.4,2,7,2,5,1,11,10,0,Matches,2022-2023,Nottingham Forest
+Cheikhou Kouyaté,sn SEN,"MF,DF",33-088,7.8,20,15,10,8,2,5,8,62.5,3,13,1,12,5,25,20,0,Matches,2022-2023,Nottingham Forest
+Willy Boly,ci CIV,DF,32-044,6.6,13,6,8,3,2,8,13,61.5,5,11,4,7,12,25,38,0,Matches,2022-2023,Nottingham Forest
+Keylor Navas,cr CRC,GK,36-094,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,0,Matches,2022-2023,Nottingham Forest
+Harry Toffolo,eng ENG,DF,27-212,7.1,10,6,6,2,2,4,7,57.1,3,9,4,5,6,16,23,0,Matches,2022-2023,Nottingham Forest
+Lewis O'Brien,eng ENG,MF,24-156,6.5,16,9,4,11,1,6,12,50.0,6,13,2,11,5,21,9,0,Matches,2022-2023,Nottingham Forest
+Felipe,br BRA,DF,33-307,5.9,14,8,8,6,0,10,16,62.5,6,14,7,7,18,32,36,0,Matches,2022-2023,Nottingham Forest
+Jonjo Shelvey,eng ENG,MF,31-020,4.9,1,0,0,1,0,1,6,16.7,5,6,2,4,4,5,9,0,Matches,2022-2023,Nottingham Forest
+Chris Wood,nz NZL,FW,31-102,4.1,0,0,0,0,0,0,1,0.0,1,2,1,1,1,1,2,0,Matches,2022-2023,Nottingham Forest
+Emmanuel Dennis,ng NGA,FW,25-124,6.1,11,9,5,3,3,4,10,40.0,6,9,1,8,0,11,4,0,Matches,2022-2023,Nottingham Forest
+Jack Colback,eng ENG,MF,33-146,5.5,18,13,12,6,0,5,8,62.5,3,3,0,3,3,21,9,0,Matches,2022-2023,Nottingham Forest
+Moussa Niakhate,fr FRA,DF,27-011,2.8,1,0,1,0,0,1,5,20.0,4,1,1,0,2,3,21,0,Matches,2022-2023,Nottingham Forest
+Wayne Hennessey,wls WAL,GK,36-054,2.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0,Matches,2022-2023,Nottingham Forest
+Gustavo Scarpa,br BRA,"MF,FW",29-073,1.8,4,1,2,1,1,2,4,50.0,2,3,0,3,0,4,3,0,Matches,2022-2023,Nottingham Forest
+Danilo,br BRA,MF,21-324,1.6,7,4,4,3,0,2,9,22.2,7,2,1,1,0,7,6,0,Matches,2022-2023,Nottingham Forest
+Sam Surridge,eng ENG,FW,24-234,3.1,4,0,1,2,1,0,3,0.0,3,4,2,2,0,4,6,0,Matches,2022-2023,Nottingham Forest
+André Ayew,gh GHA,FW,33-092,2.5,4,2,0,3,1,2,4,50.0,2,4,0,4,0,4,4,0,Matches,2022-2023,Nottingham Forest
+Giulian Biancone,fr FRA,DF,22-353,0.2,2,1,2,0,0,1,1,100.0,0,0,0,0,1,3,0,0,Matches,2022-2023,Nottingham Forest
+Alexander Mighten,eng ENG,FW,20-342,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches,2022-2023,Nottingham Forest
+Cafú,pt POR,MF,30-021,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,2022-2023,Nottingham Forest
+Squad Total,,,27.2,27.0,450,272,252,148,50,201,377,53.3,176,339,111,228,239,689,669,4,,2022-2023,Nottingham Forest
+Opponent Total,,,27.7,27.0,377,224,147,161,69,161,349,46.1,188,248,65,183,216,593,473,8,,2022-2023,Nottingham Forest
+Danny Ward,wls WAL,GK,29-270,26.0,1,1,1,0,0,1,3,33.3,2,0,0,0,0,1,14,2,Matches,2022-2023,Leicester City
+Timothy Castagne,be BEL,DF,27-104,25.2,64,36,37,21,6,30,56,53.6,26,40,10,30,31,95,77,0,Matches,2022-2023,Leicester City
+Harvey Barnes,eng ENG,"MF,FW",25-100,22.6,20,13,8,9,3,10,31,32.3,21,25,1,24,6,26,7,0,Matches,2022-2023,Leicester City
+Kiernan Dewsbury-Hall,eng ENG,MF,24-194,21.7,42,24,10,27,5,16,40,40.0,24,44,6,38,25,67,16,0,Matches,2022-2023,Leicester City
+Wout Faes,be BEL,DF,24-350,20.0,40,23,18,20,2,20,33,60.6,13,30,20,10,30,70,65,2,Matches,2022-2023,Leicester City
+Youri Tielemans,be BEL,MF,25-316,19.0,48,28,20,20,8,21,45,46.7,24,31,6,25,19,67,16,0,Matches,2022-2023,Leicester City
+James Maddison,eng ENG,"MF,FW",26-116,18.1,31,15,15,11,5,13,36,36.1,23,9,0,9,11,42,5,0,Matches,2022-2023,Leicester City
+Daniel Amartey,gh GHA,DF,28-088,16.9,17,6,11,5,1,10,12,83.3,2,21,14,7,8,25,61,0,Matches,2022-2023,Leicester City
+James Justin,eng ENG,DF,25-024,13.9,20,18,7,12,1,9,14,64.3,5,24,6,18,15,35,47,0,Matches,2022-2023,Leicester City
+Wilfred Ndidi,ng NGA,"MF,DF",26-093,11.9,38,29,18,17,3,10,29,34.5,19,20,9,11,23,61,28,1,Matches,2022-2023,Leicester City
+Boubakary Soumaré,fr FRA,MF,24-020,10.3,38,25,18,18,2,16,27,59.3,11,7,2,5,19,57,16,0,Matches,2022-2023,Leicester City
+Jamie Vardy,eng ENG,FW,36-067,14.3,7,3,4,1,2,1,5,20.0,4,10,1,9,2,9,20,0,Matches,2022-2023,Leicester City
+Patson Daka,zm ZAM,FW,24-161,9.4,8,5,3,5,0,1,5,20.0,4,8,2,6,3,11,6,0,Matches,2022-2023,Leicester City
+Jonny Evans,nir NIR,DF,35-075,9.0,10,4,10,0,0,6,10,60.0,4,6,5,1,16,26,33,0,Matches,2022-2023,Leicester City
+Luke Thomas,eng ENG,DF,21-282,7.7,12,11,6,5,1,9,19,47.4,10,12,2,10,22,34,21,0,Matches,2022-2023,Leicester City
+Kelechi Iheanacho,ng NGA,"FW,MF",26-167,8.3,6,2,0,3,3,3,7,42.9,4,5,1,4,0,6,6,0,Matches,2022-2023,Leicester City
+Harry Souttar,au AUS,DF,24-148,7.0,10,7,6,4,0,7,15,46.7,8,13,9,4,5,15,25,0,Matches,2022-2023,Leicester City
+Nampalys Mendy,sn SEN,MF,30-269,6.8,10,6,5,5,0,7,13,53.8,6,15,3,12,11,21,2,0,Matches,2022-2023,Leicester City
+Tetê,br BRA,FW,23-032,5.0,11,6,3,6,2,5,15,33.3,10,6,0,6,1,12,0,0,Matches,2022-2023,Leicester City
+Dennis Praet,be BEL,"MF,FW",28-309,6.0,11,8,5,5,1,6,9,66.7,3,10,2,8,5,16,5,0,Matches,2022-2023,Leicester City
+Victor Bernth Kristiansen,dk DEN,DF,20-093,3.9,19,12,9,9,1,11,18,61.1,7,9,1,8,1,20,14,0,Matches,2022-2023,Leicester City
+Ayoze Pérez,es ESP,"MF,FW",29-233,4.2,11,8,5,4,2,8,19,42.1,11,6,0,6,2,13,3,0,Matches,2022-2023,Leicester City
+Ricardo Pereira,pt POR,"DF,MF",29-164,3.1,4,3,2,2,0,2,9,22.2,7,2,0,2,3,7,11,0,Matches,2022-2023,Leicester City
+Wesley Fofana,fr FRA,DF,22-092,2.0,4,2,1,2,1,1,3,33.3,2,1,1,0,9,13,5,0,Matches,2022-2023,Leicester City
+Marc Albrighton,eng ENG,"FW,MF",33-121,2.6,4,1,0,2,2,1,8,12.5,7,6,2,4,1,5,5,0,Matches,2022-2023,Leicester City
+Daniel Iversen,dk DEN,GK,25-243,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Leicester City
+Çağlar Söyüncü,tr TUR,DF,26-300,0.9,2,1,1,1,0,1,1,100.0,0,2,1,1,1,3,2,0,Matches,2022-2023,Leicester City
+Lewis Brunt,eng ENG,DF,22-133,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches,2022-2023,Leicester City
+Squad Total,,,27.0,27.0,488,297,223,214,51,225,482,46.7,257,362,104,258,269,757,512,5,,2022-2023,Leicester City
+Opponent Total,,,27.1,27.0,408,248,197,159,52,181,367,49.3,186,353,82,271,264,672,420,8,,2022-2023,Leicester City
+Declan Rice,eng ENG,MF,24-064,26.0,58,25,30,26,2,20,30,66.7,10,28,11,17,40,98,40,0,Matches,2022-2023,West Ham United
+Jarrod Bowen,eng ENG,"FW,MF",26-089,25.9,29,11,10,10,9,12,38,31.6,26,34,6,28,25,54,16,0,Matches,2022-2023,West Ham United
+Łukasz Fabiański,pl POL,GK,37-335,22.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,0,Matches,2022-2023,West Ham United
+Tomáš Souček,cz CZE,MF,28-020,22.2,61,31,33,23,5,21,42,50.0,21,36,14,22,38,99,45,1,Matches,2022-2023,West Ham United
+Thilo Kehrer,de GER,DF,26-179,18.5,32,19,16,12,4,18,36,50.0,18,13,5,8,26,58,53,1,Matches,2022-2023,West Ham United
+Aaron Cresswell,eng ENG,DF,33-094,17.5,15,7,8,7,0,7,18,38.9,11,17,8,9,20,35,41,0,Matches,2022-2023,West Ham United
+Lucas Paquetá,br BRA,MF,25-204,14.6,32,23,12,15,5,11,33,33.3,22,27,3,24,11,43,24,0,Matches,2022-2023,West Ham United
+Vladimír Coufal,cz CZE,DF,30-209,15.8,36,21,23,8,5,22,31,71.0,9,19,5,14,25,61,35,0,Matches,2022-2023,West Ham United
+Kurt Zouma,fr FRA,DF,28-143,15.4,6,3,4,2,0,4,7,57.1,3,9,8,1,14,20,83,0,Matches,2022-2023,West Ham United
+Saïd Benrahma,dz ALG,"FW,MF",27-221,15.9,17,9,8,4,5,8,22,36.4,14,13,1,12,6,23,10,0,Matches,2022-2023,West Ham United
+Michail Antonio,jm JAM,FW,32-356,12.5,12,6,1,7,4,3,6,50.0,3,11,4,7,3,15,4,0,Matches,2022-2023,West Ham United
+Pablo Fornals,es ESP,"FW,MF",27-025,11.5,18,9,5,7,6,6,25,24.0,19,11,1,10,11,29,8,0,Matches,2022-2023,West Ham United
+Gianluca Scamacca,it ITA,FW,24-077,10.3,10,5,1,3,6,2,2,100.0,0,3,0,3,4,14,5,0,Matches,2022-2023,West Ham United
+Emerson Palmieri,it ITA,DF,28-228,9.0,15,8,6,9,0,8,16,50.0,8,11,2,9,9,24,22,0,Matches,2022-2023,West Ham United
+Nayef Aguerd,ma MAR,DF,26-354,9.7,14,10,9,5,0,7,10,70.0,3,12,11,1,10,24,42,0,Matches,2022-2023,West Ham United
+Ben Johnson,eng ENG,DF,23-054,8.3,20,14,12,4,4,12,18,66.7,6,11,4,7,8,28,25,1,Matches,2022-2023,West Ham United
+Craig Dawson,eng ENG,DF,32-317,8.0,10,6,8,2,0,4,6,66.7,2,9,6,3,6,16,26,0,Matches,2022-2023,West Ham United
+Angelo Ogbonna,it ITA,DF,34-300,7.9,10,3,6,4,0,4,5,80.0,1,4,1,3,9,19,34,1,Matches,2022-2023,West Ham United
+Flynn Downes,eng ENG,MF,24-058,4.4,9,7,2,6,1,3,6,50.0,3,9,0,9,4,13,2,0,Matches,2022-2023,West Ham United
+Danny Ings,eng ENG,FW,30-239,3.7,3,2,0,2,1,0,4,0.0,4,4,2,2,1,4,1,0,Matches,2022-2023,West Ham United
+Alphonse Areola,fr FRA,GK,30-020,3.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,West Ham United
+Manuel Lanzini,ar ARG,"MF,FW",30-032,1.7,0,0,0,0,0,0,2,0.0,2,1,0,1,1,1,0,0,Matches,2022-2023,West Ham United
+Maxwel Cornet,ci CIV,FW,26-173,1.1,4,1,3,0,1,2,2,100.0,0,1,0,1,0,4,0,0,Matches,2022-2023,West Ham United
+Divin Mubama,eng ENG,FW,18-145,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,West Ham United
+Conor Coventry,ie IRL,"MF,FW",22-359,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,West Ham United
+Squad Total,,,28.7,26.0,411,220,197,156,58,174,359,48.5,185,283,92,191,271,682,521,4,,2022-2023,West Ham United
+Opponent Total,,,27.3,26.0,405,246,200,151,54,166,317,52.4,151,317,108,209,192,597,574,8,,2022-2023,West Ham United
+Jefferson Lerma,co COL,"MF,DF",28-145,25.3,35,20,17,14,4,16,28,57.1,12,25,13,12,31,66,76,1,Matches,2022-2023,Bournemouth
+Adam Smith,eng ENG,DF,31-324,24.4,38,22,21,14,3,23,49,46.9,26,25,11,14,17,55,62,1,Matches,2022-2023,Bournemouth
+Philip Billing,dk DEN,"MF,FW",26-281,21.7,46,27,18,20,8,10,31,32.3,21,39,8,31,27,73,45,1,Matches,2022-2023,Bournemouth
+Marcos Senesi,ar ARG,DF,25-313,20.9,39,28,23,16,0,17,30,56.7,13,34,16,18,27,66,118,1,Matches,2022-2023,Bournemouth
+Dominic Solanke,eng ENG,"FW,MF",25-186,20.9,8,5,5,1,2,3,13,23.1,10,16,5,11,2,10,34,0,Matches,2022-2023,Bournemouth
+Chris Mepham,wls WAL,DF,25-134,19.4,33,16,27,6,0,11,18,61.1,7,33,23,10,20,53,118,0,Matches,2022-2023,Bournemouth
+Lewis Cook,eng ENG,MF,26-044,16.8,36,22,9,22,5,17,33,51.5,16,24,9,15,18,54,26,0,Matches,2022-2023,Bournemouth
+Neto,br BRA,GK,33-243,16.5,2,0,2,0,0,2,2,100.0,0,0,0,0,0,2,4,3,Matches,2022-2023,Bournemouth
+Jordan Zemura,zw ZIM,DF,23-125,16.2,39,24,24,14,1,23,43,53.5,20,31,9,22,16,55,32,0,Matches,2022-2023,Bournemouth
+Marcus Tavernier,eng ENG,"MF,FW",23-362,15.2,26,17,15,10,1,7,18,38.9,11,15,1,14,5,31,21,0,Matches,2022-2023,Bournemouth
+Kieffer Moore,wls WAL,FW,30-223,12.4,13,11,2,8,3,5,16,31.3,11,10,5,5,1,14,20,0,Matches,2022-2023,Bournemouth
+Lloyd Kelly,eng ENG,DF,24-164,12.0,14,8,11,3,0,8,11,72.7,3,15,10,5,17,31,56,1,Matches,2022-2023,Bournemouth
+Ryan Christie,sct SCO,"MF,FW",28-025,11.8,20,15,5,15,0,9,27,33.3,18,14,2,12,19,39,12,0,Matches,2022-2023,Bournemouth
+Mark Travers,ie IRL,GK,23-305,10.5,0,0,0,0,0,0,0,,0,1,0,1,0,0,6,0,Matches,2022-2023,Bournemouth
+Jaidon Anthony,eng ENG,"MF,FW",23-108,11.2,25,13,12,7,6,6,21,28.6,15,20,1,19,8,33,14,0,Matches,2022-2023,Bournemouth
+Jack Stephens,eng ENG,DF,29-051,8.0,14,10,9,4,1,5,8,62.5,3,16,12,4,6,20,40,0,Matches,2022-2023,Bournemouth
+Dango Ouattara,bf BFA,MF,21-036,7.4,11,7,7,2,2,7,13,53.8,6,8,2,6,7,18,16,1,Matches,2022-2023,Bournemouth
+Ryan Fredericks,eng ENG,DF,30-160,5.9,3,2,2,0,1,1,4,25.0,3,7,2,5,1,4,27,0,Matches,2022-2023,Bournemouth
+Joe Rothwell,eng ENG,MF,28-067,5.0,6,3,2,4,0,2,9,22.2,7,7,2,5,5,11,2,0,Matches,2022-2023,Bournemouth
+Hamed Junior Traorè,ci CIV,"MF,FW",23-031,3.7,15,10,5,8,2,6,16,37.5,10,9,0,9,2,17,0,0,Matches,2022-2023,Bournemouth
+Jack Stacey,eng ENG,DF,26-347,3.3,5,4,3,1,1,2,5,40.0,3,3,1,2,5,10,15,0,Matches,2022-2023,Bournemouth
+Ben Pearson,eng ENG,MF,28-074,3.2,7,3,3,3,1,1,3,33.3,2,4,0,4,2,9,6,0,Matches,2022-2023,Bournemouth
+Antoine Semenyo,gh GHA,"FW,MF",23-071,2.6,1,0,0,0,1,1,5,20.0,4,10,1,9,2,3,3,0,Matches,2022-2023,Bournemouth
+Siriki Dembélé,ci CIV,"FW,MF",26-193,1.2,3,1,2,1,0,0,1,0.0,1,1,0,1,1,4,1,0,Matches,2022-2023,Bournemouth
+Junior Stanislas,eng ENG,MF,33-113,0.7,0,0,0,0,0,0,0,,0,2,1,1,0,0,0,0,Matches,2022-2023,Bournemouth
+Matías Viña,uy URU,"MF,DF",25-130,0.2,2,1,2,0,0,1,2,50.0,1,2,0,2,0,2,3,0,Matches,2022-2023,Bournemouth
+David Brooks,wls WAL,DF,25-254,0.1,1,0,1,0,0,0,0,,0,0,0,0,0,1,2,0,Matches,2022-2023,Bournemouth
+Jamal Lowe,jm JAM,"MF,FW",28-241,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Bournemouth
+Owen Bevan,wls WAL,DF,19-144,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Bournemouth
+Emiliano Marcondes,dk DEN,MF,28-010,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,2022-2023,Bournemouth
+Squad Total,,,27.0,27.0,442,269,227,173,42,183,406,45.1,223,371,134,237,239,681,760,9,,2022-2023,Bournemouth
+Opponent Total,,,27.2,27.0,506,300,225,188,93,232,441,52.6,209,270,51,219,184,690,378,7,,2022-2023,Bournemouth
+Gavin Bazunu,ie IRL,GK,21-027,28.0,1,0,1,0,0,1,1,100.0,0,0,0,0,1,2,22,2,Matches,2022-2023,Southampton
+James Ward-Prowse,eng ENG,MF,28-138,28.0,48,25,19,22,7,17,47,36.2,30,17,3,14,38,86,30,0,Matches,2022-2023,Southampton
+Che Adams,sct SCO,FW,26-249,20.8,17,13,7,8,2,7,11,63.6,4,13,4,9,4,21,19,0,Matches,2022-2023,Southampton
+Mohammed Salisu,gh GHA,DF,23-336,21.9,51,29,33,16,2,24,34,70.6,10,56,25,31,31,82,122,1,Matches,2022-2023,Southampton
+Mohamed Elyounoussi,no NOR,"MF,FW",28-227,19.3,33,20,14,16,3,14,34,41.2,20,31,2,29,20,53,31,0,Matches,2022-2023,Southampton
+Kyle Walker-Peters,eng ENG,DF,25-340,19.4,41,22,23,15,3,16,26,61.5,10,33,7,26,17,58,34,0,Matches,2022-2023,Southampton
+Romain Perraud,fr FRA,DF,25-178,17.9,43,24,17,20,6,21,40,52.5,19,18,5,13,17,60,33,0,Matches,2022-2023,Southampton
+Armel Bella Kotchap,de GER,DF,21-098,16.5,29,13,22,7,0,11,14,78.6,3,25,9,16,40,69,85,0,Matches,2022-2023,Southampton
+Roméo Lavia,be BEL,MF,19-072,15.2,36,20,18,16,2,11,23,47.8,12,26,7,19,19,55,11,0,Matches,2022-2023,Southampton
+Adam Armstrong,eng ENG,FW,26-037,12.3,11,7,3,5,3,0,7,0.0,7,15,3,12,4,15,5,0,Matches,2022-2023,Southampton
+Joe Aribo,ng NGA,"MF,FW",26-241,12.2,29,19,13,12,4,11,19,57.9,8,13,1,12,8,37,10,0,Matches,2022-2023,Southampton
+Ibrahima Diallo,fr FRA,MF,24-011,8.9,23,13,12,10,1,8,11,72.7,3,11,1,10,6,29,10,0,Matches,2022-2023,Southampton
+Stuart Armstrong,sct SCO,"MF,FW",30-354,11.1,20,12,8,9,3,9,28,32.1,19,13,0,13,4,24,7,0,Matches,2022-2023,Southampton
+Jan Bednarek,pl POL,DF,26-341,9.1,17,13,12,5,0,6,7,85.7,1,17,11,6,22,39,38,0,Matches,2022-2023,Southampton
+Ainsley Maitland-Niles,eng ENG,"DF,MF",25-202,10.7,35,19,19,13,3,23,32,71.9,9,20,4,16,13,48,33,0,Matches,2022-2023,Southampton
+Duje Ćaleta-Car,hr CRO,DF,26-183,8.0,11,7,7,3,1,5,7,71.4,2,10,8,2,13,24,42,1,Matches,2022-2023,Southampton
+Lyanco,br BRA,DF,26-046,7.8,15,10,9,6,0,8,13,61.5,5,10,8,2,13,28,28,2,Matches,2022-2023,Southampton
+Moussa Djenepo,ml MLI,"DF,FW",24-277,6.4,17,9,11,5,1,9,20,45.0,11,12,2,10,11,28,6,0,Matches,2022-2023,Southampton
+Kamaldeen Sulemana,gh GHA,"FW,MF",21-032,5.8,7,4,1,2,4,2,9,22.2,7,12,0,12,1,8,2,0,Matches,2022-2023,Southampton
+Samuel Edozie,eng ENG,"FW,MF",20-050,6.0,15,8,5,9,1,3,7,42.9,4,6,0,6,6,21,6,0,Matches,2022-2023,Southampton
+Theo Walcott,eng ENG,"FW,MF",34-003,5.2,7,2,4,2,1,6,13,46.2,7,3,0,3,6,13,2,0,Matches,2022-2023,Southampton
+Carlos Alcaraz,ar ARG,MF,20-109,3.6,3,2,0,3,0,2,6,33.3,4,7,3,4,1,4,7,0,Matches,2022-2023,Southampton
+Sekou Mara,fr FRA,"FW,MF",20-232,5.0,14,10,5,8,1,3,9,33.3,6,9,0,9,1,15,6,0,Matches,2022-2023,Southampton
+Paul Onuachu,ng NGA,FW,28-295,3.0,0,0,0,0,0,0,1,0.0,1,2,1,1,0,0,1,0,Matches,2022-2023,Southampton
+James Bree,eng ENG,DF,25-159,2.2,3,1,2,1,0,1,1,100.0,0,2,1,1,4,7,4,0,Matches,2022-2023,Southampton
+Juan Larios,es ESP,DF,19-066,1.7,7,6,6,1,0,5,5,100.0,0,2,0,2,3,10,4,0,Matches,2022-2023,Southampton
+Oriol Romeu,es ESP,MF,31-176,0.8,1,0,0,1,0,0,0,,0,1,0,1,1,2,1,0,Matches,2022-2023,Southampton
+Yan Valery,tn TUN,DF,24-025,0.5,0,0,0,0,0,0,0,,0,1,0,1,0,0,3,0,Matches,2022-2023,Southampton
+Jack Stephens,eng ENG,DF,29-051,0.5,2,2,2,0,0,1,1,100.0,0,1,1,0,1,3,2,0,Matches,2022-2023,Southampton
+Mislav Oršić,hr CRO,MF,30-080,0.1,1,1,1,0,0,0,0,,0,0,0,0,0,1,0,0,Matches,2022-2023,Southampton
+Nathan Redmond,eng ENG,DF,29-013,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2022-2023,Southampton
+Squad Total,,,25.1,28.0,537,311,274,215,48,224,426,52.6,202,386,106,280,305,842,604,6,,2022-2023,Southampton
+Opponent Total,,,27.4,28.0,541,309,244,229,68,235,465,50.5,230,347,97,250,231,772,595,5,,2022-2023,Southampton
+Nick Pope,eng ENG,GK,29.0,36.0,0,0,0,0,0,0,2,0.0,2,0,0,0,2,2,30,3,Matches,2021-2022,Burnley
+Dwight McNeil,eng ENG,MF,21.0,34.5,78,49,27,38,13,33,73,45.2,40,64,11,53,35,113,31,1,Matches,2021-2022,Burnley
+James Tarkowski,eng ENG,DF,28.0,34.5,65,45,47,17,1,33,47,70.2,14,75,61,14,48,113,186,4,Matches,2021-2022,Burnley
+Josh Brownhill,eng ENG,MF,25.0,32.8,73,37,25,42,6,21,53,39.6,32,37,12,25,68,141,42,1,Matches,2021-2022,Burnley
+Charlie Taylor,eng ENG,DF,27.0,30.3,45,26,31,11,3,26,44,59.1,18,42,20,22,58,103,95,2,Matches,2021-2022,Burnley
+Ashley Westwood,eng ENG,MF,31.0,25.4,21,12,8,12,1,10,31,32.3,21,21,9,12,30,51,16,1,Matches,2021-2022,Burnley
+Ben Mee,eng ENG,DF,31.0,20.4,26,12,16,7,3,12,19,63.2,7,28,22,6,24,50,94,1,Matches,2021-2022,Burnley
+Maxwel Cornet,ci CIV,"FW,MF",24.0,19.6,16,9,7,5,4,7,15,46.7,8,13,4,9,10,26,14,0,Matches,2021-2022,Burnley
+Matthew Lowton,eng ENG,DF,32.0,19.7,38,24,20,10,8,20,37,54.1,17,25,11,14,26,64,68,0,Matches,2021-2022,Burnley
+Jack Cork,eng ENG,MF,32.0,18.6,20,6,6,11,3,7,20,35.0,13,17,4,13,17,37,29,1,Matches,2021-2022,Burnley
+Connor Roberts,wls WAL,DF,25.0,18.8,20,13,10,7,3,10,15,66.7,5,25,5,20,22,42,62,1,Matches,2021-2022,Burnley
+Nathan Collins,ie IRL,DF,20.0,18.6,37,15,27,8,2,17,27,63.0,10,38,25,13,24,61,83,2,Matches,2021-2022,Burnley
+Aaron Lennon,eng ENG,"MF,FW",34.0,17.2,33,17,10,13,10,10,34,29.4,24,26,4,22,9,42,14,0,Matches,2021-2022,Burnley
+Wout Weghorst,nl NED,FW,28.0,16.1,17,9,3,9,5,6,19,31.6,13,16,5,11,6,23,13,0,Matches,2021-2022,Burnley
+Chris Wood,nz NZL,FW,29.0,15.2,7,5,0,3,4,3,10,30.0,7,13,4,9,0,7,3,0,Matches,2021-2022,Burnley
+Jay Rodriguez,eng ENG,FW,32.0,15.4,20,12,8,8,4,4,14,28.6,10,19,1,18,4,24,12,0,Matches,2021-2022,Burnley
+Jóhann Berg Guðmundsson,is ISL,MF,30.0,12.2,16,6,7,7,2,5,20,25.0,15,11,2,9,12,28,22,0,Matches,2021-2022,Burnley
+Ashley Barnes,eng ENG,FW,31.0,9.0,11,2,2,7,2,2,9,22.2,7,8,1,7,2,13,5,0,Matches,2021-2022,Burnley
+Erik Pieters,nl NED,DF,32.0,8.1,28,15,15,11,2,17,28,60.7,11,18,7,11,10,38,38,0,Matches,2021-2022,Burnley
+Matěj Vydra,cz CZE,FW,29.0,7.5,12,7,3,4,5,3,7,42.9,4,5,1,4,0,12,9,0,Matches,2021-2022,Burnley
+Kevin Long,ie IRL,DF,30.0,4.6,3,2,1,2,0,1,2,50.0,1,4,1,3,1,4,20,0,Matches,2021-2022,Burnley
+Wayne Hennessey,wls WAL,GK,34.0,2.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,1,Matches,2021-2022,Burnley
+Dale Stephens,eng ENG,MF,32.0,1.4,4,1,0,3,1,3,8,37.5,5,4,1,3,1,5,1,0,Matches,2021-2022,Burnley
+Squad Total,,,28.5,38.0,590,324,273,235,82,250,534,46.8,284,509,211,298,410,1000,887,18,,2021-2022,Burnley
+Opponent Total,,,26.7,38.0,512,306,249,202,61,221,479,46.1,258,369,104,265,280,792,853,9,,2021-2022,Burnley
+Moussa Sissoko,fr FRA,MF,31.0,35.8,53,27,27,20,6,28,42,66.7,14,42,13,29,30,83,64,0,Matches,2021-2022,Watford
+Emmanuel Dennis,ng NGA,"FW,MF",23.0,28.7,51,35,20,22,9,17,52,32.7,35,36,2,34,15,66,13,0,Matches,2021-2022,Watford
+Craig Cathcart,nir NIR,DF,32.0,26.6,32,15,25,6,1,16,30,53.3,14,39,29,10,28,60,132,3,Matches,2021-2022,Watford
+Joshua King,no NOR,FW,29.0,25.0,19,15,7,6,6,4,17,23.5,13,15,4,11,8,27,31,0,Matches,2021-2022,Watford
+Ben Foster,eng ENG,GK,38.0,26.0,0,0,0,0,0,0,3,0.0,3,0,0,0,0,0,9,4,Matches,2021-2022,Watford
+Kiko Femenía,es ESP,DF,30.0,23.8,35,22,23,10,2,21,37,56.8,16,24,8,16,37,72,51,0,Matches,2021-2022,Watford
+Juraj Kucka,sk SVK,MF,34.0,21.3,59,39,32,25,2,27,73,37.0,46,30,9,21,27,86,46,2,Matches,2021-2022,Watford
+Ismaila Sarr,sn SEN,"FW,MF",23.0,20.7,12,7,4,3,5,5,19,26.3,14,10,1,9,9,21,10,0,Matches,2021-2022,Watford
+Tom Cleverley,eng ENG,MF,31.0,18.0,37,20,19,17,1,18,33,54.5,15,23,6,17,18,55,19,3,Matches,2021-2022,Watford
+Samir Santos,br BRA,DF,26.0,18.6,24,11,18,6,0,8,19,42.1,11,21,11,10,43,67,85,3,Matches,2021-2022,Watford
+Hassane Kamara,ci CIV,DF,27.0,18.0,53,34,31,16,6,27,43,62.8,16,20,4,16,69,122,67,0,Matches,2021-2022,Watford
+Imran Louza,ma MAR,MF,22.0,15.7,41,21,18,20,3,16,38,42.1,22,28,6,22,42,83,20,1,Matches,2021-2022,Watford
+João Pedro,br BRA,"FW,MF",19.0,18.3,20,14,7,8,5,6,23,26.1,17,23,3,20,15,35,17,0,Matches,2021-2022,Watford
+William Troost-Ekong,ng NGA,DF,27.0,15.4,18,9,11,6,1,10,15,66.7,5,24,14,10,7,25,82,1,Matches,2021-2022,Watford
+Adam Masina,ma MAR,DF,27.0,12.0,24,13,11,10,3,12,29,41.4,17,18,6,12,18,42,45,0,Matches,2021-2022,Watford
+Christian Kabasele,be BEL,DF,30.0,13.3,11,5,10,1,0,7,10,70.0,3,20,16,4,14,25,67,1,Matches,2021-2022,Watford
+Daniel Bachmann,at AUT,GK,27.0,12.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,5,0,Matches,2021-2022,Watford
+Cucho,co COL,"FW,MF",22.0,12.7,13,5,5,5,3,5,27,18.5,22,13,1,12,5,18,9,0,Matches,2021-2022,Watford
+Jeremy Ngakia,eng ENG,DF,20.0,10.0,31,18,23,5,3,11,26,42.3,15,11,4,7,12,43,32,0,Matches,2021-2022,Watford
+Edo Kayembe,cd COD,MF,23.0,8.9,21,13,11,9,1,8,16,50.0,8,6,1,5,9,30,13,0,Matches,2021-2022,Watford
+Ken Sema,se SWE,"MF,FW",27.0,9.5,16,6,11,4,1,9,20,45.0,11,10,0,10,5,21,11,0,Matches,2021-2022,Watford
+Danny Rose,eng ENG,DF,31.0,7.7,16,10,11,4,1,10,24,41.7,14,8,5,3,14,30,11,1,Matches,2021-2022,Watford
+Francisco Sierralta,cl CHI,DF,24.0,4.7,7,3,7,0,0,5,8,62.5,3,7,2,5,6,13,35,0,Matches,2021-2022,Watford
+Oghenekaro Etebo,ng NGA,MF,25.0,4.5,11,8,7,4,0,3,8,37.5,5,3,1,2,5,16,5,0,Matches,2021-2022,Watford
+Ozan Tufan,tr TUR,MF,26.0,3.7,3,2,1,1,1,1,5,20.0,4,2,0,2,2,5,4,0,Matches,2021-2022,Watford
+Samuel Kalu,ng NGA,FW,23.0,2.5,2,2,0,2,0,1,1,100.0,0,2,0,2,3,5,3,0,Matches,2021-2022,Watford
+Nicolas Nkoulou,cm CMR,DF,31.0,1.9,1,0,0,1,0,0,0,,0,2,1,1,2,3,8,0,Matches,2021-2022,Watford
+Dan Gosling,eng ENG,MF,31.0,1.8,2,1,1,1,0,2,6,33.3,4,2,0,2,0,2,3,0,Matches,2021-2022,Watford
+Ashley Fletcher,eng ENG,FW,25.0,0.3,2,1,1,1,0,1,1,100.0,0,1,1,0,0,2,0,0,Matches,2021-2022,Watford
+Troy Deeney,eng ENG,FW,33.0,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,2,0,Matches,2021-2022,Watford
+Squad Total,,,28.4,38.0,614,356,341,213,60,278,626,44.4,348,440,148,292,444,1058,899,19,,2021-2022,Watford
+Opponent Total,,,26.8,38.0,745,438,356,287,102,356,751,47.4,395,377,93,284,347,1092,608,15,,2021-2022,Watford
+Teemu Pukki,fi FIN,FW,31.0,36.1,23,11,2,14,7,6,29,20.7,23,21,1,20,4,27,3,0,Matches,2021-2022,Norwich City
+Grant Hanley,sct SCO,DF,29.0,32.2,44,25,28,14,2,18,35,51.4,17,56,45,11,56,100,176,2,Matches,2021-2022,Norwich City
+Max Aarons,eng ENG,DF,21.0,32.0,64,44,49,15,0,37,55,67.3,18,39,19,20,28,92,96,1,Matches,2021-2022,Norwich City
+Kenny McLean,sct SCO,MF,29.0,30.1,42,22,18,20,4,17,59,28.8,42,29,7,22,34,76,54,0,Matches,2021-2022,Norwich City
+Tim Krul,nl NED,GK,33.0,29.0,1,1,1,0,0,1,4,25.0,3,0,0,0,0,1,10,4,Matches,2021-2022,Norwich City
+Ben Gibson,eng ENG,DF,28.0,27.7,23,16,17,6,0,7,12,58.3,5,36,30,6,27,50,139,2,Matches,2021-2022,Norwich City
+Pierre Lees-Melou,fr FRA,MF,28.0,25.2,58,36,23,29,6,25,92,27.2,67,37,11,26,25,83,23,0,Matches,2021-2022,Norwich City
+Milot Rashica,xk KVX,"FW,MF",25.0,24.8,31,19,12,12,7,11,30,36.7,19,22,3,19,15,46,23,0,Matches,2021-2022,Norwich City
+Brandon Williams,eng ENG,DF,20.0,23.6,55,37,35,18,2,36,64,56.3,28,26,6,20,44,99,50,0,Matches,2021-2022,Norwich City
+Billy Gilmour,sct SCO,MF,20.0,20.6,41,21,16,21,4,14,52,26.9,38,21,4,17,17,58,29,0,Matches,2021-2022,Norwich City
+Mathias Normann,no NOR,MF,25.0,18.3,34,21,19,14,1,17,46,37.0,29,17,8,9,19,53,43,1,Matches,2021-2022,Norwich City
+Josh Sargent,us USA,"FW,MF",21.0,17.5,26,14,15,7,4,14,39,35.9,25,29,2,27,11,37,18,2,Matches,2021-2022,Norwich City
+Dimitris Giannoulis,gr GRE,DF,25.0,13.0,36,21,17,17,2,24,36,66.7,12,22,6,16,19,55,41,1,Matches,2021-2022,Norwich City
+Sam Byram,eng ENG,DF,27.0,11.4,24,15,17,6,1,19,27,70.4,8,21,11,10,22,46,48,0,Matches,2021-2022,Norwich City
+Ozan Kabak,tr TUR,DF,21.0,10.2,10,5,4,6,0,5,9,55.6,4,19,11,8,16,26,26,0,Matches,2021-2022,Norwich City
+Kieran Dowell,eng ENG,"FW,MF",23.0,10.1,18,7,8,7,3,9,32,28.1,23,10,1,9,7,25,4,0,Matches,2021-2022,Norwich City
+Angus Gunn,eng ENG,GK,25.0,9.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,11,0,Matches,2021-2022,Norwich City
+Lukas Rupp,de GER,MF,30.0,8.5,9,4,5,3,1,4,15,26.7,11,11,1,10,9,18,7,0,Matches,2021-2022,Norwich City
+Adam Idah,ie IRL,"FW,MF",20.0,6.9,9,6,2,5,2,2,3,66.7,1,4,2,2,3,12,7,0,Matches,2021-2022,Norwich City
+Jakob Sørensen,dk DEN,"MF,DF",23.0,6.7,22,11,6,14,2,10,20,50.0,10,7,3,4,10,32,19,0,Matches,2021-2022,Norwich City
+Przemysław Płacheta,pl POL,"FW,MF",23.0,5.6,4,3,3,1,0,2,7,28.6,5,3,1,2,2,6,5,1,Matches,2021-2022,Norwich City
+Todd Cantwell,eng ENG,"FW,MF",23.0,4.9,15,13,8,6,1,6,17,35.3,11,2,0,2,3,18,2,0,Matches,2021-2022,Norwich City
+Andrew Omobamidele,ie IRL,DF,19.0,4.2,8,6,5,3,0,5,11,45.5,6,8,8,0,5,13,13,0,Matches,2021-2022,Norwich City
+Christos Tzolis,gr GRE,"FW,MF",19.0,3.7,5,3,3,1,1,2,9,22.2,7,3,0,3,1,6,1,0,Matches,2021-2022,Norwich City
+Christoph Zimmermann,de GER,DF,28.0,1.7,6,3,5,1,0,3,4,75.0,1,0,0,0,1,7,4,0,Matches,2021-2022,Norwich City
+Tony Springett,eng ENG,"MF,FW",18.0,1.6,2,1,1,1,0,1,4,25.0,3,0,0,0,0,2,2,0,Matches,2021-2022,Norwich City
+Jon Rowe,eng ENG,"FW,MF",18.0,2.5,3,2,2,1,0,2,3,66.7,1,7,0,7,3,6,1,0,Matches,2021-2022,Norwich City
+Bali Mumba,eng ENG,DF,19.0,0.5,1,1,1,0,0,0,0,,0,0,0,0,0,1,5,0,Matches,2021-2022,Norwich City
+Squad Total,,,26.2,38.0,614,368,322,242,50,297,714,41.6,417,450,180,270,381,995,860,14,,2021-2022,Norwich City
+Opponent Total,,,26.8,38.0,596,363,273,234,89,283,581,48.7,298,382,115,267,330,926,586,13,,2021-2022,Norwich City
+Alphonse Areola,fr FRA,GK,27.0,36.0,1,0,1,0,0,1,5,20.0,4,0,0,0,1,2,13,3,Matches,2020-2021,Fulham
+Tosin Adarabioyo,eng ENG,DF,22.0,32.8,37,19,30,6,1,19,40,47.5,21,26,20,6,42,79,197,2,Matches,2020-2021,Fulham
+Ademola Lookman,ng NGA,"FW,MF",22.0,30.5,35,11,18,9,8,13,44,29.5,31,31,1,30,20,55,9,0,Matches,2020-2021,Fulham
+Ola Aina,ng NGA,DF,23.0,29.6,37,20,22,7,8,21,43,48.8,22,22,6,16,45,82,94,2,Matches,2020-2021,Fulham
+Joachim Andersen,dk DEN,DF,24.0,30.3,33,19,18,11,4,15,28,53.6,13,24,13,11,44,77,151,1,Matches,2020-2021,Fulham
+Andre-Frank Zambo Anguissa,cm CMR,MF,24.0,28.7,78,37,27,38,13,27,68,39.7,41,35,6,29,56,134,17,2,Matches,2020-2021,Fulham
+Bobby Reid,jm JAM,"MF,FW",27.0,26.4,31,15,17,10,4,18,39,46.2,21,19,5,14,21,52,39,0,Matches,2020-2021,Fulham
+Ivan Cavaleiro,pt POR,FW,26.0,27.5,23,14,9,11,3,12,34,35.3,22,25,1,24,19,42,14,0,Matches,2020-2021,Fulham
+Harrison Reed,eng ENG,MF,25.0,25.0,63,38,28,28,7,29,73,39.7,44,34,11,23,50,113,31,1,Matches,2020-2021,Fulham
+Antonee Robinson,us USA,DF,22.0,24.0,45,28,24,16,5,27,44,61.4,17,21,4,17,37,82,68,0,Matches,2020-2021,Fulham
+Ruben Loftus-Cheek,eng ENG,"MF,FW",24.0,21.2,25,14,7,15,3,7,23,30.4,16,20,2,18,7,32,18,0,Matches,2020-2021,Fulham
+Mario Lemina,ga GAB,MF,26.0,18.9,62,35,25,30,7,23,44,52.3,21,26,5,21,30,92,21,0,Matches,2020-2021,Fulham
+Kenny Tete,nl NED,"DF,MF",24.0,16.5,48,30,27,16,5,10,18,55.6,8,14,5,9,27,75,49,0,Matches,2020-2021,Fulham
+Aleksandar Mitrović,rs SRB,FW,25.0,15.6,7,4,0,3,4,2,8,25.0,6,12,3,9,3,10,8,0,Matches,2020-2021,Fulham
+Josh Maja,ng NGA,FW,21.0,9.0,7,4,0,3,4,4,10,40.0,6,3,1,2,4,11,1,0,Matches,2020-2021,Fulham
+Tom Cairney,sct SCO,MF,29.0,8.4,9,3,1,4,4,1,4,25.0,3,6,0,6,0,9,3,0,Matches,2020-2021,Fulham
+Joe Bryan,eng ENG,"DF,MF",26.0,7.4,15,8,7,5,3,7,12,58.3,5,8,2,6,14,29,16,0,Matches,2020-2021,Fulham
+Tim Ream,us USA,DF,32.0,7.0,12,5,9,3,0,8,11,72.7,3,8,5,3,6,18,26,1,Matches,2020-2021,Fulham
+Josh Onomah,eng ENG,MF,23.0,4.2,11,8,1,6,4,0,5,0.0,5,4,2,2,2,13,1,0,Matches,2020-2021,Fulham
+Denis Odoi,gh GHA,DF,32.0,3.0,3,3,2,1,0,1,4,25.0,3,3,1,2,5,8,5,0,Matches,2020-2021,Fulham
+Michael Hector,jm JAM,DF,28.0,2.9,3,2,1,2,0,1,6,16.7,5,4,2,2,0,3,6,0,Matches,2020-2021,Fulham
+Fabio Carvalho,pt POR,"MF,FW",17.0,2.8,9,6,4,4,1,5,9,55.6,4,2,0,2,1,10,1,1,Matches,2020-2021,Fulham
+Aboubakar Kamara,mr MTN,"FW,MF",25.0,3.5,2,2,1,1,0,0,5,0.0,5,6,0,6,1,3,0,0,Matches,2020-2021,Fulham
+Marek Rodák,sk SVK,GK,23.0,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2020-2021,Fulham
+Maxime Le Marchand,fr FRA,DF,30.0,1.4,2,2,2,0,0,2,2,100.0,0,0,0,0,0,2,3,0,Matches,2020-2021,Fulham
+Neeskens Kebano,cd COD,"FW,MF",28.0,1.3,0,0,0,0,0,0,1,0.0,1,3,0,3,0,0,0,0,Matches,2020-2021,Fulham
+Terence Kongolo,nl NED,DF,26.0,1.0,3,2,1,2,0,1,1,100.0,0,0,0,0,2,5,3,0,Matches,2020-2021,Fulham
+Tyrese Francois,au AUS,DF,20.0,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2020-2021,Fulham
+Squad Total,,,25.2,38.0,601,329,282,231,88,254,581,43.7,327,356,95,261,437,1038,794,13,,2020-2021,Fulham
+Opponent Total,,,26.6,38.0,682,373,323,271,88,289,795,36.4,506,426,121,305,404,1086,729,16,,2020-2021,Fulham
+Aaron Ramsdale,eng ENG,GK,22.0,38.0,1,1,1,0,0,1,1,100.0,0,0,0,0,2,3,22,6,Matches,2020-2021,Sheffield United
+George Baldock,gr GRE,DF,27.0,31.0,47,34,28,14,5,21,50,42.0,29,26,7,19,25,72,70,1,Matches,2020-2021,Sheffield United
+Chris Basham,eng ENG,"DF,MF",32.0,28.6,69,42,41,23,5,41,67,61.2,26,36,15,21,49,118,105,1,Matches,2020-2021,Sheffield United
+Enda Stevens,ie IRL,DF,30.0,30.0,59,26,32,19,8,33,58,56.9,25,41,12,29,22,81,81,1,Matches,2020-2021,Sheffield United
+John Egan,ie IRL,DF,27.0,29.2,41,21,29,12,0,22,39,56.4,17,43,31,12,41,82,131,0,Matches,2020-2021,Sheffield United
+John Fleck,sct SCO,MF,28.0,28.6,51,33,28,18,5,26,83,31.3,57,26,4,22,28,79,12,1,Matches,2020-2021,Sheffield United
+David McGoldrick,ie IRL,"FW,MF",32.0,26.6,33,21,8,15,10,13,31,41.9,18,19,3,16,2,35,25,0,Matches,2020-2021,Sheffield United
+Oliver Norwood,nir NIR,MF,29.0,24.7,49,22,16,28,5,21,72,29.2,51,29,12,17,36,85,51,1,Matches,2020-2021,Sheffield United
+Ethan Ampadu,wls WAL,"DF,MF",19.0,23.2,57,36,31,24,2,20,46,43.5,26,40,19,21,49,106,87,3,Matches,2020-2021,Sheffield United
+John Lundstram,eng ENG,MF,26.0,22.6,25,16,12,11,2,13,47,27.7,34,26,8,18,14,39,29,1,Matches,2020-2021,Sheffield United
+Ben Osborn,eng ENG,"MF,DF",25.0,17.8,33,18,15,10,8,13,40,32.5,27,20,3,17,12,45,17,0,Matches,2020-2021,Sheffield United
+Oliver Burke,sct SCO,FW,23.0,14.1,16,8,6,9,1,5,24,20.8,19,24,0,24,2,18,6,0,Matches,2020-2021,Sheffield United
+Sander Berge,no NOR,MF,22.0,12.4,16,7,8,5,3,7,15,46.7,8,11,2,9,4,20,18,0,Matches,2020-2021,Sheffield United
+Oliver McBurnie,sct SCO,FW,24.0,14.7,15,7,7,7,1,5,17,29.4,12,10,3,7,6,21,30,0,Matches,2020-2021,Sheffield United
+Rhian Brewster,eng ENG,"FW,MF",20.0,12.5,8,5,1,4,3,1,13,7.7,12,15,2,13,5,13,5,0,Matches,2020-2021,Sheffield United
+Jayden Bogle,eng ENG,"DF,MF",20.0,12.3,33,23,21,10,2,20,39,51.3,19,14,4,10,14,47,22,0,Matches,2020-2021,Sheffield United
+Kean Bryan,eng ENG,DF,23.0,11.2,20,10,9,11,0,9,19,47.4,10,16,10,6,13,33,39,1,Matches,2020-2021,Sheffield United
+Jack Robinson,eng ENG,DF,26.0,9.7,14,6,8,5,1,6,11,54.5,5,10,4,6,9,23,42,0,Matches,2020-2021,Sheffield United
+Billy Sharp,eng ENG,FW,34.0,8.2,5,1,0,3,2,2,9,22.2,7,2,0,2,0,5,2,0,Matches,2020-2021,Sheffield United
+Max Lowe,eng ENG,DF,23.0,6.1,26,11,18,6,2,9,21,42.9,12,12,4,8,5,31,11,0,Matches,2020-2021,Sheffield United
+Phil Jagielka,eng ENG,DF,37.0,5.8,5,4,4,0,1,2,7,28.6,5,11,5,6,10,15,26,2,Matches,2020-2021,Sheffield United
+Daniel Jebbison,eng ENG,FW,17.0,3.2,6,2,1,3,2,3,7,42.9,4,6,1,5,1,7,0,0,Matches,2020-2021,Sheffield United
+Lys Mousset,fr FRA,"FW,MF",24.0,3.3,1,0,0,0,1,0,2,0.0,2,1,0,1,0,1,1,1,Matches,2020-2021,Sheffield United
+Jack O'Connell,eng ENG,DF,26.0,2.0,3,1,1,1,1,0,1,0.0,1,4,3,1,2,5,7,0,Matches,2020-2021,Sheffield United
+Iliman Ndiaye,sn SEN,MF,20.0,0.1,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches,2020-2021,Sheffield United
+Antwoine Hackford,eng ENG,DF,16.0,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2020-2021,Sheffield United
+Femi Seriki,eng ENG,MF,18.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2020-2021,Sheffield United
+Squad Total,,,26.7,38.0,634,356,325,239,70,294,720,40.8,426,442,152,290,351,985,839,19,,2020-2021,Sheffield United
+Opponent Total,,,26.7,38.0,529,301,288,177,64,206,475,43.4,269,353,91,262,296,825,690,9,,2020-2021,Sheffield United
+Sam Johnstone,eng ENG,GK,27.0,37.0,0,0,0,0,0,0,0,,0,0,0,0,2,2,15,2,Matches,2020-2021,West Bromwich Albion
+Darnell Furlong,eng ENG,DF,24.0,32.6,45,27,27,12,6,21,44,47.7,23,39,16,23,49,94,90,0,Matches,2020-2021,West Bromwich Albion
+Semi Ajayi,ng NGA,DF,26.0,30.9,40,14,34,6,0,23,41,56.1,18,51,32,19,42,82,122,2,Matches,2020-2021,West Bromwich Albion
+Matheus Pereira,pt POR,"MF,FW",24.0,28.6,26,15,14,10,2,12,54,22.2,42,18,0,18,29,55,16,0,Matches,2020-2021,West Bromwich Albion
+Kyle Bartley,eng ENG,DF,29.0,28.7,27,16,14,10,3,11,23,47.8,12,50,35,15,38,65,159,1,Matches,2020-2021,West Bromwich Albion
+Conor Gallagher,eng ENG,MF,20.0,28.1,81,41,30,39,12,29,97,29.9,68,47,8,39,27,108,31,0,Matches,2020-2021,West Bromwich Albion
+Conor Townsend,eng ENG,DF,27.0,24.8,44,28,32,9,3,30,49,61.2,19,38,15,23,36,80,55,2,Matches,2020-2021,West Bromwich Albion
+Dara O'Shea,ie IRL,DF,21.0,23.4,45,25,30,13,2,21,45,46.7,24,32,17,15,45,90,108,0,Matches,2020-2021,West Bromwich Albion
+Matt Phillips,sct SCO,MF,29.0,20.3,15,8,4,11,0,7,23,30.4,16,32,4,28,10,25,32,1,Matches,2020-2021,West Bromwich Albion
+Callum Robinson,ie IRL,"FW,MF",25.0,17.3,7,5,5,1,1,3,19,15.8,16,9,0,9,7,14,8,0,Matches,2020-2021,West Bromwich Albion
+Romaine Sawyers,kn SKN,MF,28.0,16.5,30,18,16,12,2,14,43,32.6,29,20,4,16,18,48,12,3,Matches,2020-2021,West Bromwich Albion
+Okay Yokuşlu,tr TUR,MF,26.0,14.6,38,25,21,13,4,17,35,48.6,18,15,3,12,35,73,33,1,Matches,2020-2021,West Bromwich Albion
+Jake Livermore,eng ENG,MF,30.0,13.8,33,18,14,16,3,14,31,45.2,17,21,6,15,16,49,26,0,Matches,2020-2021,West Bromwich Albion
+Grady Diangana,eng ENG,"MF,FW",22.0,13.7,35,19,19,9,7,19,43,44.2,24,16,2,14,16,51,9,0,Matches,2020-2021,West Bromwich Albion
+Ainsley Maitland-Niles,eng ENG,MF,22.0,13.7,22,10,7,8,7,9,28,32.1,19,12,1,11,17,39,24,0,Matches,2020-2021,West Bromwich Albion
+Mbaye Diagne,sn SEN,FW,28.0,13.2,4,3,3,0,1,1,4,25.0,3,2,1,1,1,5,16,0,Matches,2020-2021,West Bromwich Albion
+Karlan Grant,eng ENG,"FW,MF",22.0,12.5,5,3,3,2,0,2,4,50.0,2,7,0,7,5,10,17,0,Matches,2020-2021,West Bromwich Albion
+Kieran Gibbs,eng ENG,DF,30.0,9.0,15,11,11,3,1,8,10,80.0,2,8,6,2,16,31,30,1,Matches,2020-2021,West Bromwich Albion
+Branislav Ivanović,rs SRB,DF,36.0,8.5,14,5,11,3,0,7,13,53.8,6,11,5,6,8,22,25,0,Matches,2020-2021,West Bromwich Albion
+Robert Snodgrass,sct SCO,"MF,FW",32.0,5.8,17,12,12,4,1,10,16,62.5,6,11,2,9,1,18,12,0,Matches,2020-2021,West Bromwich Albion
+Filip Krovinović,hr CRO,MF,24.0,6.1,13,10,6,5,2,6,18,33.3,12,2,0,2,4,17,2,0,Matches,2020-2021,West Bromwich Albion
+Lee Peltier,eng ENG,DF,33.0,2.5,9,4,8,1,0,4,4,100.0,0,1,1,0,1,10,11,0,Matches,2020-2021,West Bromwich Albion
+Hal Robson-Kanu,wls WAL,FW,31.0,6.2,2,1,1,0,1,0,1,0.0,1,2,0,2,2,4,7,0,Matches,2020-2021,West Bromwich Albion
+Kamil Grosicki,pl POL,"MF,FW",32.0,1.6,2,1,2,0,0,2,8,25.0,6,1,0,1,2,4,1,0,Matches,2020-2021,West Bromwich Albion
+Kyle Edwards,eng ENG,"MF,FW",22.0,1.3,3,2,1,1,1,0,0,,0,2,0,2,1,4,0,0,Matches,2020-2021,West Bromwich Albion
+David Button,eng ENG,GK,31.0,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2020-2021,West Bromwich Albion
+Ahmed Hegazi,eg EGY,DF,29.0,1.0,0,0,0,0,0,0,0,,0,2,0,2,1,1,7,0,Matches,2020-2021,West Bromwich Albion
+Charlie Austin,eng ENG,"FW,MF",31.0,1.5,4,2,1,2,1,1,3,33.3,2,0,0,0,3,7,4,0,Matches,2020-2021,West Bromwich Albion
+Sam Field,eng ENG,MF,22.0,0.7,5,5,3,2,0,0,0,,0,4,1,3,2,7,4,0,Matches,2020-2021,West Bromwich Albion
+Rekeem Harper,eng ENG,MF,20.0,0.4,0,0,0,0,0,0,0,,0,2,0,2,1,1,0,0,Matches,2020-2021,West Bromwich Albion
+Squad Total,,,26.4,38.0,581,328,329,192,60,271,656,41.3,385,455,159,296,435,1016,876,13,,2020-2021,West Bromwich Albion
+Opponent Total,,,26.6,38.0,554,328,256,235,63,241,505,47.7,264,296,75,221,328,882,672,13,,2020-2021,West Bromwich Albion
+Aaron Ramsdale,eng ENG,GK,21.0,37.0,4,3,4,0,0,3,3,100.0,0,0,0,0,0,4,25,1,Matches,2019-2020,Bournemouth
+Callum Wilson,eng ENG,FW,27.0,32.3,12,9,3,6,3,2,17,11.8,15,16,2,14,4,16,16,0,Matches,2019-2020,Bournemouth
+Jefferson Lerma,co COL,MF,24.0,30.0,54,32,17,31,6,22,48,45.8,26,28,12,16,57,111,54,1,Matches,2019-2020,Bournemouth
+Philip Billing,dk DEN,MF,23.0,28.1,72,46,30,37,5,17,65,26.2,48,59,16,43,66,138,97,1,Matches,2019-2020,Bournemouth
+Nathan Aké,nl NED,DF,24.0,27.8,31,21,23,8,0,14,23,60.9,9,40,29,11,36,67,152,0,Matches,2019-2020,Bournemouth
+Steve Cook,eng ENG,DF,28.0,27.0,22,11,18,4,0,8,20,40.0,12,32,23,9,44,66,153,1,Matches,2019-2020,Bournemouth
+Diego Rico,es ESP,DF,26.0,25.9,61,39,32,24,5,29,59,49.2,30,31,7,24,84,145,91,0,Matches,2019-2020,Bournemouth
+Adam Smith,eng ENG,DF,28.0,22.8,47,32,29,16,2,23,50,46.0,27,27,6,21,25,72,64,1,Matches,2019-2020,Bournemouth
+Joshua King,no NOR,"FW,MF",27.0,22.3,16,6,4,8,4,4,16,25.0,12,20,3,17,8,24,9,0,Matches,2019-2020,Bournemouth
+Ryan Fraser,sct SCO,"MF,FW",25.0,23.0,12,6,5,5,2,7,22,31.8,15,15,3,12,15,27,24,0,Matches,2019-2020,Bournemouth
+Harry Wilson,wls WAL,"MF,FW",22.0,18.3,23,13,8,10,5,11,34,32.4,23,26,2,24,11,34,15,1,Matches,2019-2020,Bournemouth
+Dominic Solanke,eng ENG,FW,21.0,18.3,8,4,2,5,1,5,33,15.2,28,9,1,8,8,16,18,1,Matches,2019-2020,Bournemouth
+Jack Stacey,eng ENG,DF,23.0,17.2,21,11,9,11,1,8,22,36.4,14,27,11,16,18,39,64,1,Matches,2019-2020,Bournemouth
+Lewis Cook,eng ENG,"MF,FW",22.0,15.0,27,14,15,9,3,10,47,21.3,37,17,5,12,17,44,17,1,Matches,2019-2020,Bournemouth
+Dan Gosling,eng ENG,MF,29.0,14.0,26,10,14,9,3,6,27,22.2,21,31,11,20,20,46,26,0,Matches,2019-2020,Bournemouth
+Simon Francis,eng ENG,DF,34.0,10.8,13,9,11,2,0,11,21,52.4,10,17,12,5,20,33,71,0,Matches,2019-2020,Bournemouth
+Chris Mepham,wls WAL,DF,21.0,10.1,20,9,13,7,0,11,14,78.6,3,17,11,6,17,37,62,1,Matches,2019-2020,Bournemouth
+David Brooks,wls WAL,"MF,FW",22.0,5.6,5,5,1,2,2,2,14,14.3,12,5,1,4,2,7,1,0,Matches,2019-2020,Bournemouth
+Junior Stanislas,eng ENG,"MF,FW",29.0,7.9,10,7,2,3,5,3,8,37.5,5,6,0,6,4,14,6,0,Matches,2019-2020,Bournemouth
+Lloyd Kelly,eng ENG,DF,20.0,7.1,7,3,3,4,0,6,7,85.7,1,9,5,4,6,13,15,1,Matches,2019-2020,Bournemouth
+Arnaut Danjuma,nl NED,MF,22.0,7.0,4,2,3,1,0,1,4,25.0,3,2,0,2,8,12,4,1,Matches,2019-2020,Bournemouth
+Andrew Surman,eng ENG,MF,32.0,2.6,4,2,2,2,0,1,3,33.3,2,1,0,1,1,5,5,1,Matches,2019-2020,Bournemouth
+Charlie Daniels,eng ENG,DF,32.0,1.4,1,1,0,1,0,0,1,0.0,1,2,0,2,1,2,5,1,Matches,2019-2020,Bournemouth
+Jack Simpson,eng ENG,DF,22.0,2.7,5,2,4,1,0,2,8,25.0,6,1,0,1,2,7,12,1,Matches,2019-2020,Bournemouth
+Mark Travers,ie IRL,GK,20.0,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches,2019-2020,Bournemouth
+Jordon Ibe,eng ENG,DF,23.0,0.6,2,2,2,0,0,1,1,100.0,0,0,0,0,0,2,1,0,Matches,2019-2020,Bournemouth
+Sam Surridge,eng ENG,"FW,MF",21.0,0.3,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0,Matches,2019-2020,Bournemouth
+Squad Total,,,25.2,38.0,507,299,254,206,47,207,567,36.5,360,439,160,279,475,982,1008,16,,2019-2020,Bournemouth
+Opponent Total,,,26.8,38.0,661,389,299,265,97,277,602,46.0,325,443,117,326,402,1063,824,15,,2019-2020,Bournemouth
+Max Aarons,eng ENG,DF,19.0,36.0,48,30,33,9,6,18,36,50.0,18,46,29,17,37,85,97,1,Matches,2019-2020,Norwich City
+Tim Krul,nl NED,GK,31.0,36.0,0,0,0,0,0,0,1,0.0,1,2,0,2,1,1,13,1,Matches,2019-2020,Norwich City
+Teemu Pukki,fi FIN,FW,29.0,32.1,12,6,3,5,4,1,23,4.3,22,13,0,13,6,18,7,0,Matches,2019-2020,Norwich City
+Kenny McLean,sct SCO,MF,27.0,33.0,44,29,20,18,6,14,42,33.3,28,32,7,25,38,82,67,2,Matches,2019-2020,Norwich City
+Ben Godfrey,eng ENG,DF,21.0,29.4,22,14,18,3,1,10,18,55.6,8,41,37,4,25,47,152,3,Matches,2019-2020,Norwich City
+Todd Cantwell,eng ENG,"FW,MF",21.0,27.7,51,31,19,27,5,26,73,35.6,47,38,2,36,18,69,35,1,Matches,2019-2020,Norwich City
+Emi Buendía,ar ARG,"FW,MF",22.0,27.4,82,39,57,21,4,38,118,32.2,80,58,5,53,23,105,32,2,Matches,2019-2020,Norwich City
+Alexander Tettey,no NOR,"MF,DF",33.0,26.0,23,18,7,16,0,11,39,28.2,28,20,9,11,43,66,72,1,Matches,2019-2020,Norwich City
+Jamal Lewis,nir NIR,DF,21.0,25.6,51,35,42,6,3,22,36,61.1,14,27,12,15,25,76,68,0,Matches,2019-2020,Norwich City
+Christoph Zimmermann,de GER,DF,26.0,15.9,32,21,26,6,0,21,30,70.0,9,22,18,4,19,51,87,2,Matches,2019-2020,Norwich City
+Sam Byram,eng ENG,DF,25.0,14.4,40,22,24,11,5,18,37,48.6,19,16,8,8,26,66,73,0,Matches,2019-2020,Norwich City
+Onel Hernández,cu CUB,"FW,MF",26.0,15.4,27,19,13,11,3,9,31,29.0,22,12,1,11,19,46,10,0,Matches,2019-2020,Norwich City
+Grant Hanley,sct SCO,DF,27.0,14.0,24,15,17,7,0,8,14,57.1,6,25,18,7,31,55,77,1,Matches,2019-2020,Norwich City
+Marco Stiepermann,de GER,MF,28.0,13.1,20,8,8,9,3,5,21,23.8,16,11,3,8,5,25,16,0,Matches,2019-2020,Norwich City
+Tom Trybull,de GER,MF,26.0,12.6,39,25,15,18,6,16,60,26.7,44,20,5,15,16,55,35,0,Matches,2019-2020,Norwich City
+Ondrej Duda,sk SVK,MF,24.0,8.0,18,11,9,6,3,7,16,43.8,9,10,2,8,6,24,8,0,Matches,2019-2020,Norwich City
+Ibrahim Amadou,fr FRA,"DF,MF",26.0,8.4,18,11,9,8,1,3,11,27.3,8,8,5,3,16,34,55,1,Matches,2019-2020,Norwich City
+Lukas Rupp,de GER,"FW,MF",28.0,7.7,15,9,7,5,3,5,17,29.4,12,11,0,11,15,30,4,0,Matches,2019-2020,Norwich City
+Moritz Leitner,de GER,MF,26.0,7.6,16,9,8,7,1,9,25,36.0,16,14,4,10,9,25,10,1,Matches,2019-2020,Norwich City
+Timm Klose,ch SUI,DF,31.0,6.5,8,2,5,2,1,7,11,63.6,4,6,6,0,7,15,29,0,Matches,2019-2020,Norwich City
+Mario Vrančić,ba BIH,MF,30.0,7.1,27,16,14,11,2,16,27,59.3,11,9,0,9,10,37,4,2,Matches,2019-2020,Norwich City
+Josip Drmić,ch SUI,FW,26.0,7.2,3,2,1,2,0,0,8,0.0,8,6,0,6,1,4,5,1,Matches,2019-2020,Norwich City
+Adam Idah,ie IRL,"FW,MF",18.0,2.5,2,2,1,0,1,2,3,66.7,1,4,0,4,0,2,1,0,Matches,2019-2020,Norwich City
+Michael McGovern,nir NIR,GK,35.0,1.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,Matches,2019-2020,Norwich City
+Ralf Fährmann,de GER,GK,30.0,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2019-2020,Norwich City
+Dennis Srbeny,de GER,"MF,FW",25.0,0.5,5,5,3,2,0,1,3,33.3,2,1,0,1,0,5,1,0,Matches,2019-2020,Norwich City
+Josh Martin,eng ENG,"FW,MF",17.0,0.4,1,0,0,0,1,0,0,,0,1,0,1,1,2,0,0,Matches,2019-2020,Norwich City
+Patrick Roberts,eng ENG,"FW,MF",22.0,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2019-2020,Norwich City
+Akin Famewo,eng ENG,MF,20.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2019-2020,Norwich City
+Jordan Thomas,eng ENG,FW,18.0,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2019-2020,Norwich City
+Squad Total,,,26.0,38.0,628,379,359,210,59,267,700,38.1,433,453,171,282,397,1025,959,20,,2019-2020,Norwich City
+Opponent Total,,,26.5,38.0,684,400,291,275,118,278,705,39.4,427,444,120,324,430,1114,602,13,,2019-2020,Norwich City
+Ben Foster,eng ENG,GK,36.0,38.0,1,0,1,0,0,1,3,33.3,2,1,0,1,0,1,16,2,Matches,2019-2020,Watford
+Abdoulaye Doucouré,ml MLI,MF,26.0,35.1,64,30,29,29,6,16,57,28.1,41,46,8,38,31,95,32,0,Matches,2019-2020,Watford
+Étienne Capoue,fr FRA,MF,31.0,29.2,75,40,38,30,7,37,85,43.5,48,30,11,19,68,143,61,0,Matches,2019-2020,Watford
+Craig Cathcart,nir NIR,DF,30.0,27.6,41,26,25,15,1,10,24,41.7,14,19,16,3,25,66,136,1,Matches,2019-2020,Watford
+Will Hughes,eng ENG,MF,24.0,25.0,75,47,24,41,10,25,67,37.3,42,48,8,40,37,112,28,0,Matches,2019-2020,Watford
+Craig Dawson,eng ENG,DF,29.0,26.2,29,18,16,13,0,17,31,54.8,14,41,32,9,34,63,116,0,Matches,2019-2020,Watford
+Christian Kabasele,be BEL,DF,28.0,25.0,37,24,26,11,0,17,32,53.1,15,31,23,8,36,73,127,0,Matches,2019-2020,Watford
+Kiko Femenía,es ESP,DF,28.0,24.9,68,38,49,17,2,43,80,53.8,37,16,2,14,36,104,49,0,Matches,2019-2020,Watford
+Troy Deeney,eng ENG,FW,31.0,24.7,19,12,6,10,3,6,29,20.7,23,13,1,12,11,30,27,0,Matches,2019-2020,Watford
+Gerard Deulofeu,es ESP,FW,25.0,23.3,33,16,18,9,6,12,59,20.3,47,10,0,10,25,58,6,0,Matches,2019-2020,Watford
+Ismaila Sarr,sn SEN,"FW,MF",21.0,22.5,11,10,5,2,4,5,23,21.7,18,9,1,8,18,29,10,0,Matches,2019-2020,Watford
+Adam Masina,ma MAR,DF,25.0,20.2,38,22,24,11,3,14,37,37.8,23,26,12,14,28,66,66,0,Matches,2019-2020,Watford
+Roberto Pereyra,ar ARG,"FW,MF",28.0,18.3,20,8,11,7,2,9,28,32.1,19,21,0,21,14,34,12,1,Matches,2019-2020,Watford
+Adrian Mariappa,jm JAM,DF,32.0,16.8,20,14,15,4,1,11,30,36.7,19,22,7,15,11,31,73,0,Matches,2019-2020,Watford
+José Holebas,gr GRE,DF,35.0,11.4,26,15,19,7,0,9,28,32.1,19,11,4,7,3,29,33,0,Matches,2019-2020,Watford
+Tom Cleverley,eng ENG,MF,29.0,10.8,28,15,8,14,6,9,36,25.0,27,13,1,12,10,38,15,0,Matches,2019-2020,Watford
+Nathaniel Chalobah,eng ENG,MF,24.0,10.3,30,11,13,13,4,12,27,44.4,15,10,4,6,18,48,20,0,Matches,2019-2020,Watford
+Danny Welbeck,eng ENG,"FW,MF",28.0,9.1,14,6,6,5,3,3,11,27.3,8,12,1,11,5,19,7,0,Matches,2019-2020,Watford
+Andre Gray,jm JAM,FW,28.0,8.4,4,3,0,2,2,1,3,33.3,2,4,1,3,1,5,2,0,Matches,2019-2020,Watford
+Daryl Janmaat,nl NED,DF,30.0,6.7,14,10,8,6,0,6,13,46.2,7,7,2,5,7,21,23,0,Matches,2019-2020,Watford
+Dimitri Foulquier,fr FRA,"DF,MF",26.0,0.7,1,0,1,0,0,0,0,,0,1,0,1,2,3,2,0,Matches,2019-2020,Watford
+Sebastian Prödl,at AUT,DF,32.0,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0,Matches,2019-2020,Watford
+Ignacio Pussetto,ar ARG,"FW,MF",23.0,0.8,7,4,4,2,1,3,8,37.5,5,2,1,1,3,10,4,0,Matches,2019-2020,Watford
+Isaac Success,ng NGA,"FW,MF",23.0,0.8,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0,Matches,2019-2020,Watford
+João Pedro,br BRA,"FW,MF",17.0,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2019-2020,Watford
+Domingos Quina,pt POR,"MF,FW",19.0,0.2,2,0,1,1,0,1,2,50.0,1,3,0,3,0,2,0,0,Matches,2019-2020,Watford
+Squad Total,,,28.9,38.0,657,369,347,249,61,267,713,37.4,446,396,135,261,424,1081,869,4,,2019-2020,Watford
+Opponent Total,,,26.5,38.0,603,351,319,210,74,254,575,44.2,321,363,124,239,386,989,818,25,,2019-2020,Watford
+Neil Etheridge,ph PHI,GK,28.0,38.0,1,1,1,0,0,1,2,50.0,1,0,0,0,7,8,19,1,Matches,2018-2019,Cardiff City
+Bruno Ecuele Manga,ga GAB,DF,30.0,37.5,69,36,48,16,5,29,58,50.0,29,62,28,34,81,150,179,4,Matches,2018-2019,Cardiff City
+Sean Morrison,eng ENG,DF,27.0,33.8,35,17,29,4,2,15,28,53.6,13,47,30,17,52,87,204,5,Matches,2018-2019,Cardiff City
+Víctor Camarasa,es ESP,MF,24.0,28.5,28,15,8,15,5,6,31,19.4,25,17,2,15,33,61,28,1,Matches,2018-2019,Cardiff City
+Joe Bennett,eng ENG,DF,28.0,29.3,50,29,34,16,0,22,38,57.9,16,30,8,22,60,110,93,0,Matches,2018-2019,Cardiff City
+Sol Bamba,ci CIV,DF,33.0,27.5,74,42,44,30,0,31,55,56.4,24,72,32,40,82,156,181,3,Matches,2018-2019,Cardiff City
+Aron Gunnarsson,is ISL,MF,29.0,25.2,51,29,23,25,3,23,84,27.4,61,40,12,28,38,89,55,1,Matches,2018-2019,Cardiff City
+Harry Arter,ie IRL,MF,28.0,22.2,62,37,27,26,9,16,46,34.8,30,33,5,28,21,83,21,2,Matches,2018-2019,Cardiff City
+Junior Hoilett,ca CAN,"MF,FW",28.0,23.8,40,27,26,11,3,15,53,28.3,38,34,0,34,32,72,30,0,Matches,2018-2019,Cardiff City
+Joe Ralls,eng ENG,MF,24.0,21.8,45,23,21,21,3,10,33,30.3,23,21,6,15,29,74,30,0,Matches,2018-2019,Cardiff City
+Josh Murphy,eng ENG,"MF,FW",23.0,20.2,26,17,15,7,4,9,29,31.0,20,30,0,30,11,37,17,0,Matches,2018-2019,Cardiff City
+Callum Paterson,sct SCO,"FW,MF",23.0,22.2,21,14,7,7,7,5,26,19.2,21,23,2,21,8,29,29,0,Matches,2018-2019,Cardiff City
+Lee Peltier,eng ENG,DF,31.0,17.2,39,25,27,11,1,15,27,55.6,12,18,12,6,18,57,60,0,Matches,2018-2019,Cardiff City
+Bobby Reid,jm JAM,"FW,MF",25.0,15.8,16,9,6,7,3,3,8,37.5,5,13,0,13,3,19,12,0,Matches,2018-2019,Cardiff City
+Oumar Niasse,sn SEN,FW,28.0,10.3,12,3,1,5,6,4,8,50.0,4,7,0,7,2,14,7,0,Matches,2018-2019,Cardiff City
+Nathaniel Mendez-Laing,eng ENG,"MF,FW",26.0,10.9,34,25,18,12,4,12,26,46.2,14,17,1,16,13,47,20,0,Matches,2018-2019,Cardiff City
+Kenneth Zohore,dk DEN,FW,24.0,8.4,3,2,0,3,0,1,3,33.3,2,4,2,2,2,5,5,0,Matches,2018-2019,Cardiff City
+Greg Cunningham,ie IRL,DF,27.0,7.0,18,7,11,4,3,9,16,56.3,7,9,3,6,17,35,16,1,Matches,2018-2019,Cardiff City
+Leandro Bacuna,cw CUW,MF,26.0,6.2,15,10,5,7,3,8,22,36.4,14,5,2,3,15,30,9,0,Matches,2018-2019,Cardiff City
+Danny Ward,eng ENG,FW,26.0,4.9,2,1,0,1,1,0,3,0.0,3,3,1,2,0,2,9,0,Matches,2018-2019,Cardiff City
+Kadeem Harris,eng ENG,MF,25.0,4.2,12,5,6,4,2,7,8,87.5,1,3,0,3,3,15,5,0,Matches,2018-2019,Cardiff City
+Jazz Richards,wls WAL,"DF,MF",27.0,1.5,0,0,0,0,0,0,1,0.0,1,2,1,1,2,2,5,0,Matches,2018-2019,Cardiff City
+Rhys Healey,wls WAL,FW,23.0,0.6,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0,Matches,2018-2019,Cardiff City
+Gary Madine,eng ENG,"FW,MF",27.0,0.4,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0,Matches,2018-2019,Cardiff City
+Loïc Damour,fr FRA,MF,27.0,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches,2018-2019,Cardiff City
+Squad Total,,,27.7,38.0,655,375,357,234,64,241,607,39.7,366,490,147,343,529,1184,1034,18,,2018-2019,Cardiff City
+Opponent Total,,,26.7,38.0,546,326,283,217,46,214,474,45.1,260,373,117,256,314,860,987,15,,2018-2019,Cardiff City
+Aleksandar Mitrović,rs SRB,FW,23.0,36.4,19,9,3,13,3,5,15,33.3,10,22,8,14,6,25,53,0,Matches,2018-2019,Fulham
+Sergio Rico,es ESP,GK,24.0,29.0,1,1,1,0,0,1,1,100.0,0,0,0,0,1,2,13,5,Matches,2018-2019,Fulham
+Denis Odoi,gh GHA,DF,30.0,28.8,48,34,29,16,3,21,33,63.6,12,45,24,21,42,90,153,0,Matches,2018-2019,Fulham
+Calum Chambers,eng ENG,"MF,DF",23.0,28.8,64,36,32,27,5,16,48,33.3,32,37,12,25,69,133,113,4,Matches,2018-2019,Fulham
+Joe Bryan,eng ENG,"DF,MF",24.0,26.1,61,41,35,21,5,24,42,57.1,18,34,12,22,31,92,82,1,Matches,2018-2019,Fulham
+Jean Seri,ci CIV,MF,27.0,24.9,41,28,20,20,1,13,45,28.9,32,40,9,31,32,73,17,4,Matches,2018-2019,Fulham
+Ryan Sessegnon,eng ENG,"FW,DF",18.0,25.6,22,14,8,8,6,6,22,27.3,16,25,2,23,19,41,49,1,Matches,2018-2019,Fulham
+Maxime Le Marchand,fr FRA,DF,28.0,25.0,56,36,45,11,0,23,47,48.9,24,30,16,14,54,110,129,2,Matches,2018-2019,Fulham
+Tim Ream,us USA,DF,30.0,22.7,23,14,16,7,0,14,28,50.0,14,19,10,9,25,48,80,2,Matches,2018-2019,Fulham
+Tom Cairney,sct SCO,"MF,FW",27.0,24.4,37,21,9,22,6,12,16,75.0,4,21,5,16,10,47,13,1,Matches,2018-2019,Fulham
+André Schürrle,de GER,"FW,MF",27.0,18.2,30,19,14,10,6,12,42,28.6,30,16,1,15,8,38,17,1,Matches,2018-2019,Fulham
+Cyrus Christie,ie IRL,"DF,MF",25.0,21.6,43,23,26,13,4,18,41,43.9,23,25,11,14,29,72,96,1,Matches,2018-2019,Fulham
+Andre-Frank Zambo Anguissa,cm CMR,MF,22.0,16.9,48,29,23,20,5,18,52,34.6,34,25,6,19,34,82,32,0,Matches,2018-2019,Fulham
+Ryan Babel,nl NED,"FW,MF",31.0,13.9,8,4,1,5,2,3,9,33.3,6,12,0,12,6,14,13,1,Matches,2018-2019,Fulham
+Alfie Mawson,eng ENG,DF,24.0,12.6,11,7,7,4,0,6,10,60.0,4,20,17,3,19,30,64,1,Matches,2018-2019,Fulham
+Luciano Vietto,ar ARG,"FW,MF",24.0,11.0,15,11,5,5,5,4,19,21.1,15,9,0,9,6,21,5,0,Matches,2018-2019,Fulham
+Kevin McDonald,sct SCO,MF,29.0,9.3,15,11,6,8,1,5,13,38.5,8,8,2,6,9,24,22,0,Matches,2018-2019,Fulham
+Timothy Fosu-Mensah,nl NED,DF,20.0,8.8,18,7,12,6,0,8,13,61.5,5,11,5,6,12,30,30,1,Matches,2018-2019,Fulham
+Marcus Bettinelli,eng ENG,GK,26.0,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,0,Matches,2018-2019,Fulham
+Aboubakar Kamara,mr MTN,FW,23.0,7.7,8,4,1,5,2,3,7,42.9,4,6,0,6,1,9,6,0,Matches,2018-2019,Fulham
+Stefan Johansen,no NOR,MF,27.0,4.6,11,3,4,7,0,5,8,62.5,3,5,0,5,3,14,6,0,Matches,2018-2019,Fulham
+Håvard Nordtveit,no NOR,DF,28.0,4.0,9,4,8,1,0,4,5,80.0,1,3,3,0,8,17,15,1,Matches,2018-2019,Fulham
+Floyd Ayité,tg TOG,"FW,MF",29.0,5.3,4,4,2,1,1,2,6,33.3,4,8,1,7,7,11,5,0,Matches,2018-2019,Fulham
+Fabricio,es ESP,GK,30.0,2.0,1,1,1,0,0,0,0,,0,0,0,0,0,1,3,2,Matches,2018-2019,Fulham
+Ibrahima Cissé,gn GUI,MF,24.0,1.0,0,0,0,0,0,0,1,0.0,1,0,0,0,3,3,4,0,Matches,2018-2019,Fulham
+Neeskens Kebano,cd COD,"FW,MF",26.0,1.2,3,1,2,1,0,1,1,100.0,0,3,0,3,0,3,3,0,Matches,2018-2019,Fulham
+Lazar Marković,rs SRB,MF,24.0,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0,Matches,2018-2019,Fulham
+Harvey Elliott,eng ENG,MF,15.0,0.2,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0,Matches,2018-2019,Fulham
+Squad Total,,,26.0,38.0,596,362,310,231,55,224,524,42.7,300,425,144,281,434,1030,1030,28,,2018-2019,Fulham
+Opponent Total,,,26.8,38.0,700,428,298,306,96,214,566,37.8,352,377,110,267,446,1146,765,18,,2018-2019,Fulham
+Christopher Schindler,de GER,DF,28.0,36.2,61,36,46,14,1,27,47,57.4,20,69,34,35,70,131,138,4,Matches,2018-2019,Huddersfield Town
+Terence Kongolo,nl NED,DF,24.0,30.2,74,46,44,26,4,27,47,57.4,20,42,16,26,65,139,106,1,Matches,2018-2019,Huddersfield Town
+Jonas Lössl,dk DEN,GK,29.0,30.9,0,0,0,0,0,0,1,0.0,1,1,0,1,2,2,12,2,Matches,2018-2019,Huddersfield Town
+Jonathan Hogg,eng ENG,MF,29.0,26.3,78,41,18,51,9,27,69,39.1,42,46,7,39,73,151,19,1,Matches,2018-2019,Huddersfield Town
+Alex Pritchard,eng ENG,"MF,FW",25.0,23.1,36,24,10,18,8,10,35,28.6,25,26,2,24,17,53,9,0,Matches,2018-2019,Huddersfield Town
+Aaron Mooy,au AUS,"MF,FW",27.0,25.9,62,42,19,27,16,21,52,40.4,31,43,7,36,14,76,22,0,Matches,2018-2019,Huddersfield Town
+Philip Billing,dk DEN,MF,22.0,24.3,73,44,26,39,8,19,42,45.2,23,57,16,41,53,126,43,0,Matches,2018-2019,Huddersfield Town
+Mathias Jørgensen,dk DEN,DF,28.0,23.9,49,31,27,21,1,27,46,58.7,19,29,14,15,69,118,83,0,Matches,2018-2019,Huddersfield Town
+Chris Löwe,de GER,"DF,MF",29.0,22.9,34,18,17,15,2,12,33,36.4,21,21,3,18,23,57,56,0,Matches,2018-2019,Huddersfield Town
+Erik Durm,de GER,DF,26.0,22.8,35,22,24,8,3,14,33,42.4,19,26,6,20,41,76,42,0,Matches,2018-2019,Huddersfield Town
+Florent Hadergjonaj,xk KVX,"DF,MF",24.0,20.5,30,17,10,18,2,13,37,35.1,24,21,7,14,21,51,37,1,Matches,2018-2019,Huddersfield Town
+Steve Mounié,bj BEN,FW,23.0,19.8,9,6,3,4,2,2,12,16.7,10,10,1,9,5,14,15,0,Matches,2018-2019,Huddersfield Town
+Juninho Bacuna,cw CUW,"MF,DF",20.0,15.7,46,29,22,19,5,22,54,40.7,32,21,1,20,24,70,12,1,Matches,2018-2019,Huddersfield Town
+Elias Kachunga,cd COD,"FW,MF",26.0,13.1,22,9,8,12,2,9,25,36.0,16,16,1,15,4,26,10,0,Matches,2018-2019,Huddersfield Town
+Tommy Smith,eng ENG,DF,26.0,12.7,26,13,14,11,1,10,25,40.0,15,12,4,8,18,44,25,0,Matches,2018-2019,Huddersfield Town
+Laurent Depoitre,be BEL,FW,29.0,11.9,6,4,2,3,1,0,3,0.0,3,9,0,9,2,8,8,0,Matches,2018-2019,Huddersfield Town
+Isaac Mbenza,be BEL,"FW,MF",22.0,11.0,10,9,5,5,0,2,4,50.0,2,4,0,4,5,15,4,0,Matches,2018-2019,Huddersfield Town
+Karlan Grant,eng ENG,FW,20.0,9.7,5,2,1,2,2,1,3,33.3,2,8,0,8,2,7,1,1,Matches,2018-2019,Huddersfield Town
+Jon Gorenc Stanković,si SVN,"MF,DF",22.0,7.9,26,18,18,7,1,14,26,53.8,12,16,9,7,9,35,20,1,Matches,2018-2019,Huddersfield Town
+Ben Hamer,eng ENG,GK,30.0,6.1,0,0,0,0,0,0,3,0.0,3,0,0,0,1,1,3,2,Matches,2018-2019,Huddersfield Town
+Adama Diakhaby,fr FRA,"FW,MF",22.0,6.1,6,3,4,1,1,3,11,27.3,8,7,0,7,1,7,2,0,Matches,2018-2019,Huddersfield Town
+Rajiv van La Parra,nl NED,"FW,MF",27.0,4.5,8,5,1,7,0,1,6,16.7,5,0,0,0,4,12,3,1,Matches,2018-2019,Huddersfield Town
+Jason Puncheon,eng ENG,MF,32.0,4.2,7,4,1,5,1,1,7,14.3,6,3,1,2,3,10,8,0,Matches,2018-2019,Huddersfield Town
+Danny Williams,us USA,MF,29.0,1.1,0,0,0,0,0,0,0,,0,4,1,3,1,1,2,0,Matches,2018-2019,Huddersfield Town
+Joel Coleman,eng ENG,GK,22.0,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2018-2019,Huddersfield Town
+Aaron Rowe,eng ENG,FW,17.0,0.8,1,0,1,0,0,0,0,,0,0,0,0,1,2,1,0,Matches,2018-2019,Huddersfield Town
+Abdelhamid Sabiri,ma MAR,FW,21.0,0.5,2,1,1,1,0,0,0,,0,1,0,1,1,3,0,0,Matches,2018-2019,Huddersfield Town
+Demeaco Duhaney,eng ENG,DF,19.0,0.5,1,0,1,0,0,1,3,33.3,2,2,0,2,1,2,1,0,Matches,2018-2019,Huddersfield Town
+Ramadan Sobhi,eg EGY,"FW,MF",21.0,0.9,1,1,0,1,0,0,0,,0,2,0,2,1,2,0,0,Matches,2018-2019,Huddersfield Town
+Matty Daly,eng ENG,MF,17.0,0.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2018-2019,Huddersfield Town
+Collin Quaner,de GER,FW,27.0,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0,Matches,2018-2019,Huddersfield Town
+Squad Total,,,26.2,38.0,708,425,323,315,70,263,625,42.1,362,496,130,366,531,1239,682,15,,2018-2019,Huddersfield Town
+Opponent Total,,,26.5,38.0,612,387,302,269,41,213,443,48.1,230,437,115,322,427,1039,1014,19,,2018-2019,Huddersfield Town
+Ahmed Hegazi,eg EGY,DF,26.0,37.6,58,38,46,12,0,26,50,52.0,24,55,37,18,60,118,278,2,Matches,2017-2018,West Bromwich Albion
+Ben Foster,eng ENG,GK,34.0,37.0,1,0,1,0,0,0,7,0.0,7,0,0,0,1,2,12,1,Matches,2017-2018,West Bromwich Albion
+Kieran Gibbs,eng ENG,DF,27.0,31.4,41,24,27,10,4,16,30,53.3,14,32,12,20,48,89,102,0,Matches,2017-2018,West Bromwich Albion
+Salomón Rondón,ve VEN,FW,27.0,30.7,14,6,0,7,7,5,26,19.2,21,27,0,27,14,28,20,0,Matches,2017-2018,West Bromwich Albion
+Jay Rodriguez,eng ENG,"FW,MF",28.0,31.2,31,21,12,11,8,9,50,18.0,41,32,2,30,19,50,41,0,Matches,2017-2018,West Bromwich Albion
+Jake Livermore,eng ENG,MF,27.0,29.7,72,41,27,35,10,24,64,37.5,40,44,9,35,26,98,36,2,Matches,2017-2018,West Bromwich Albion
+Craig Dawson,eng ENG,DF,27.0,27.9,38,28,25,7,6,13,36,36.1,23,39,26,13,52,90,140,0,Matches,2017-2018,West Bromwich Albion
+Jonny Evans,nir NIR,DF,29.0,25.2,29,22,19,8,2,14,33,42.4,19,22,13,9,48,77,131,1,Matches,2017-2018,West Bromwich Albion
+Allan Nyom,cm CMR,DF,29.0,25.7,64,39,43,17,4,28,43,65.1,15,20,9,11,27,91,93,0,Matches,2017-2018,West Bromwich Albion
+Matt Phillips,sct SCO,"MF,DF",26.0,23.3,27,16,17,5,5,10,29,34.5,19,21,1,20,24,51,43,0,Matches,2017-2018,West Bromwich Albion
+Gareth Barry,eng ENG,MF,36.0,21.4,35,19,17,14,4,15,45,33.3,30,19,11,8,14,49,34,0,Matches,2017-2018,West Bromwich Albion
+Chris Brunt,nir NIR,"MF,DF",32.0,21.3,41,24,19,21,1,11,31,35.5,20,28,4,24,22,63,45,1,Matches,2017-2018,West Bromwich Albion
+Grzegorz Krychowiak,pl POL,MF,27.0,18.2,39,24,18,17,4,12,49,24.5,37,23,5,18,45,84,23,0,Matches,2017-2018,West Bromwich Albion
+James McClean,ie IRL,"MF,FW",28.0,15.6,40,28,23,14,3,10,55,18.2,45,18,4,14,20,60,22,0,Matches,2017-2018,West Bromwich Albion
+Claudio Yacob,ar ARG,MF,30.0,10.0,36,27,23,13,0,13,27,48.1,14,14,6,8,16,52,25,2,Matches,2017-2018,West Bromwich Albion
+Hal Robson-Kanu,wls WAL,"FW,MF",28.0,9.2,5,4,1,2,2,0,13,0.0,13,9,3,6,4,9,9,0,Matches,2017-2018,West Bromwich Albion
+Sam Field,eng ENG,MF,19.0,6.0,14,11,8,4,2,3,10,30.0,7,6,1,5,11,25,8,0,Matches,2017-2018,West Bromwich Albion
+Gareth McAuley,nir NIR,DF,37.0,5.1,8,7,6,2,0,3,7,42.9,4,7,4,3,11,19,16,0,Matches,2017-2018,West Bromwich Albion
+Oliver Burke,sct SCO,"FW,MF",20.0,4.1,6,4,3,2,1,4,12,33.3,8,3,0,3,7,13,3,0,Matches,2017-2018,West Bromwich Albion
+Nacer Chadli,be BEL,"FW,MF",27.0,2.9,1,0,1,0,0,1,4,25.0,3,0,0,0,0,1,4,0,Matches,2017-2018,West Bromwich Albion
+James Morrison,sct SCO,MF,31.0,2.3,2,1,0,2,0,1,4,25.0,3,1,1,0,1,3,1,0,Matches,2017-2018,West Bromwich Albion
+Daniel Sturridge,eng ENG,FW,27.0,1.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,Matches,2017-2018,West Bromwich Albion
+Boaz Myhill,wls WAL,GK,34.0,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,2017-2018,West Bromwich Albion
+Rekeem Harper,eng ENG,MF,17.0,0.2,1,1,0,1,0,0,0,,0,0,0,0,0,1,0,0,Matches,2017-2018,West Bromwich Albion
+Squad Total,,,29.1,38.0,603,385,336,204,63,218,625,34.9,407,420,148,272,470,1073,1087,9,,2017-2018,West Bromwich Albion
+Opponent Total,,,26.9,38.0,652,424,314,260,78,205,526,39.0,321,323,88,235,344,996,1059,20,,2017-2018,West Bromwich Albion
+Joe Allen,wls WAL,MF,27.0,34.9,96,62,41,43,12,27,87,31.0,60,43,9,34,58,154,68,1,Matches,2017-2018,Stoke City
+Xherdan Shaqiri,ch SUI,"MF,FW",25.0,33.8,25,17,9,11,5,10,39,25.6,29,9,1,8,16,41,6,2,Matches,2017-2018,Stoke City
+Jack Butland,eng ENG,GK,24.0,35.0,1,1,1,0,0,1,1,100.0,0,1,0,1,1,2,26,1,Matches,2017-2018,Stoke City
+Kurt Zouma,fr FRA,DF,22.0,32.1,50,38,35,13,2,21,28,75.0,7,42,23,19,61,111,246,2,Matches,2017-2018,Stoke City
+Erik Pieters,nl NED,DF,28.0,30.2,71,47,43,26,2,24,51,47.1,27,70,25,45,61,132,127,5,Matches,2017-2018,Stoke City
+Mame Biram Diouf,sn SEN,"FW,DF",29.0,28.8,48,36,26,15,7,8,21,38.1,13,22,0,22,14,62,76,1,Matches,2017-2018,Stoke City
+Ryan Shawcross,eng ENG,DF,29.0,26.3,36,20,25,9,2,13,25,52.0,12,33,23,10,40,76,224,1,Matches,2017-2018,Stoke City
+Eric Maxim Choupo-Moting,cm CMR,"FW,MF",28.0,25.7,42,30,21,16,5,9,32,28.1,23,31,3,28,23,65,29,1,Matches,2017-2018,Stoke City
+Darren Fletcher,sct SCO,MF,33.0,24.7,47,26,23,20,4,15,55,27.3,40,13,3,10,26,73,33,3,Matches,2017-2018,Stoke City
+Geoff Cameron,us USA,"DF,MF",32.0,16.9,34,21,20,12,2,11,27,40.7,16,28,8,20,36,70,68,0,Matches,2017-2018,Stoke City
+Moritz Bauer,at AUT,"DF,MF",25.0,14.5,24,17,17,7,0,10,26,38.5,16,9,1,8,12,36,48,0,Matches,2017-2018,Stoke City
+Peter Crouch,eng ENG,FW,36.0,17.4,2,0,0,1,1,0,12,0.0,12,7,4,3,1,3,31,0,Matches,2017-2018,Stoke City
+Kevin Wimmer,at AUT,DF,24.0,14.7,24,17,17,7,0,9,20,45.0,11,25,12,13,30,54,88,0,Matches,2017-2018,Stoke City
+Bruno Martins Indi,nl NED,DF,25.0,13.8,21,12,18,3,0,10,19,52.6,9,16,11,5,21,42,77,1,Matches,2017-2018,Stoke City
+Badou Ndiaye,sn SEN,MF,26.0,12.6,53,28,22,25,6,16,41,39.0,25,21,9,12,13,66,18,0,Matches,2017-2018,Stoke City
+Ramadan Sobhi,eg EGY,"MF,FW",20.0,13.8,32,21,17,14,1,11,36,30.6,25,14,0,14,14,46,14,0,Matches,2017-2018,Stoke City
+Jesé,es ESP,"FW,MF",24.0,6.8,10,7,3,5,2,3,13,23.1,10,5,0,5,0,10,3,0,Matches,2017-2018,Stoke City
+Glen Johnson,eng ENG,DF,32.0,6.1,7,5,5,2,0,3,12,25.0,9,7,2,5,10,17,23,0,Matches,2017-2018,Stoke City
+Tom Edwards,eng ENG,"DF,MF",18.0,5.3,15,9,10,5,0,8,8,100.0,0,5,2,3,5,20,20,0,Matches,2017-2018,Stoke City
+Charlie Adam,sct SCO,MF,31.0,4.6,9,5,2,5,2,5,17,29.4,12,2,0,2,9,18,11,2,Matches,2017-2018,Stoke City
+Kostas Stafylidis,gr GRE,"DF,MF",23.0,3.7,12,6,6,4,2,6,9,66.7,3,7,2,5,5,17,19,0,Matches,2017-2018,Stoke City
+Saido Berahino,bi BDI,FW,23.0,5.5,2,2,0,1,1,0,1,0.0,1,4,1,3,1,3,2,0,Matches,2017-2018,Stoke City
+Lee Grant,eng ENG,GK,34.0,3.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0,Matches,2017-2018,Stoke City
+Josh Tymon,eng ENG,DF,18.0,1.8,5,1,4,1,0,2,3,66.7,1,1,0,1,1,6,3,0,Matches,2017-2018,Stoke City
+Ibrahim Afellay,nl NED,MF,31.0,1.8,3,3,0,3,0,1,2,50.0,1,1,0,1,1,4,1,0,Matches,2017-2018,Stoke City
+Stephen Ireland,ie IRL,"MF,FW",30.0,1.5,3,1,2,1,0,1,5,20.0,4,4,2,2,1,4,1,0,Matches,2017-2018,Stoke City
+Lasse Sørensen,dk DEN,MF,17.0,0.8,2,2,2,0,0,1,5,20.0,4,2,0,2,0,2,3,0,Matches,2017-2018,Stoke City
+Bojan Krkić,es ESP,MF,26.0,0.8,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0,Matches,2017-2018,Stoke City
+Tyrese Campbell,eng ENG,FW,17.0,0.9,2,1,0,2,0,1,1,100.0,0,1,1,0,1,3,0,0,Matches,2017-2018,Stoke City
+Julien Ngoy,be BEL,MF,19.0,0.2,1,1,0,1,0,1,2,50.0,1,0,0,0,0,1,0,0,Matches,2017-2018,Stoke City
+Squad Total,,,27.5,38.0,678,437,370,252,56,228,600,38.0,372,424,142,282,461,1139,1265,20,,2017-2018,Stoke City
+Opponent Total,,,26.9,38.0,585,408,281,237,67,182,507,35.9,325,346,96,250,330,915,908,17,,2017-2018,Stoke City
+Łukasz Fabiański,pl POL,GK,32.0,38.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,10,2,Matches,2017-2018,Swansea City
+Alfie Mawson,eng ENG,DF,23.0,38.0,32,22,24,8,0,16,27,59.3,11,41,32,9,35,67,229,5,Matches,2017-2018,Swansea City
+Martin Olsson,se SWE,DF,29.0,35.0,34,26,18,10,6,12,29,41.4,17,21,4,17,31,65,81,0,Matches,2017-2018,Swansea City
+Kyle Naughton,eng ENG,DF,28.0,33.7,92,60,49,35,8,54,100,54.0,46,60,13,47,60,152,144,4,Matches,2017-2018,Swansea City
+Jordan Ayew,gh GHA,"FW,MF",25.0,31.7,82,60,20,35,27,15,54,27.8,39,43,3,40,24,106,20,1,Matches,2017-2018,Swansea City
+Federico Fernández,ar ARG,DF,28.0,29.7,40,29,30,6,4,20,30,66.7,10,35,27,8,38,78,201,1,Matches,2017-2018,Swansea City
+Tom Carroll,eng ENG,MF,25.0,28.6,53,33,22,23,8,14,53,26.4,39,37,8,29,29,82,18,1,Matches,2017-2018,Swansea City
+Mike van der Hoorn,nl NED,DF,24.0,21.6,32,22,23,8,1,16,24,66.7,8,24,14,10,39,71,127,0,Matches,2017-2018,Swansea City
+Sam Clucas,eng ENG,MF,26.0,22.7,34,19,21,11,2,10,29,34.5,19,31,7,24,29,63,34,1,Matches,2017-2018,Swansea City
+Ki Sung-yueng,kr KOR,MF,28.0,20.8,25,18,10,13,2,4,16,25.0,12,16,1,15,32,57,23,0,Matches,2017-2018,Swansea City
+Nathan Dyer,eng ENG,"MF,FW",29.0,14.5,22,16,8,9,5,6,24,25.0,18,13,0,13,11,33,3,0,Matches,2017-2018,Swansea City
+Tammy Abraham,eng ENG,FW,19.0,19.2,10,8,1,7,2,1,13,7.7,12,8,1,7,1,11,11,0,Matches,2017-2018,Swansea City
+Leroy Fer,nl NED,MF,27.0,15.5,44,32,18,21,5,13,30,43.3,17,18,4,14,12,56,24,3,Matches,2017-2018,Swansea City
+André Ayew,gh GHA,"MF,FW",27.0,10.6,15,10,3,10,2,2,13,15.4,11,13,1,12,5,20,8,0,Matches,2017-2018,Swansea City
+Roque Mesa,es ESP,MF,28.0,8.4,20,13,8,8,4,10,37,27.0,27,6,0,6,13,33,8,1,Matches,2017-2018,Swansea City
+Andy King,wls WAL,MF,28.0,7.9,18,11,10,8,0,5,14,35.7,9,7,0,7,6,24,14,1,Matches,2017-2018,Swansea City
+Renato Sanches,pt POR,MF,19.0,7.8,12,7,6,6,0,6,18,33.3,12,9,1,8,7,19,5,1,Matches,2017-2018,Swansea City
+Wilfried Bony,ci CIV,FW,28.0,7.9,5,4,2,2,1,1,5,20.0,4,4,1,3,2,7,15,0,Matches,2017-2018,Swansea City
+Luciano Narsingh,nl NED,"FW,MF",26.0,6.9,7,5,1,5,1,2,7,28.6,5,7,0,7,3,10,3,0,Matches,2017-2018,Swansea City
+Wayne Routledge,eng ENG,"MF,FW",32.0,4.8,10,5,2,6,2,2,8,25.0,6,5,0,5,2,12,5,0,Matches,2017-2018,Swansea City
+Leon Britton,eng ENG,MF,34.0,3.4,6,5,0,5,1,5,8,62.5,3,3,1,2,1,7,1,0,Matches,2017-2018,Swansea City
+Connor Roberts,wls WAL,DF,21.0,3.0,6,4,5,1,0,3,3,100.0,0,2,0,2,3,9,6,0,Matches,2017-2018,Swansea City
+Oliver McBurnie,sct SCO,"FW,MF",21.0,3.1,4,3,0,2,2,1,3,33.3,2,2,0,2,0,4,3,0,Matches,2017-2018,Swansea City
+Kyle Bartley,eng ENG,DF,26.0,2.6,3,2,3,0,0,2,2,100.0,0,6,6,0,4,7,21,0,Matches,2017-2018,Swansea City
+Àngel Rangel,es ESP,DF,34.0,1.7,4,3,2,2,0,1,3,33.3,2,0,0,0,3,7,4,0,Matches,2017-2018,Swansea City
+Jay Fulton,sct SCO,MF,23.0,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,Matches,2017-2018,Swansea City
+Squad Total,,,27.2,38.0,610,417,286,241,83,221,550,40.2,329,411,124,287,390,1000,1019,21,,2017-2018,Swansea City
+Opponent Total,,,27.1,38.0,644,423,322,245,77,205,523,39.2,318,379,102,277,399,1043,936,10,,2017-2018,Swansea City
